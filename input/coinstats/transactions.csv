@@ -1,0 +1,782 @@
+Portfolio,Coin Name,Coin Symbol,Exchange,Pair,Type,Amount,Price,Price USD,Fee Percent,Fee Amount,Fee Currency,Date,Notes
+Metamask MATIC,MOVL,MOVL,,,Deposit,37.8,,,,,,"6/25/2022, 4:57:49 PM",Received 37.8 MOVL and 100 more
+Metamask MATIC,SSX,SSX,,,Deposit,923000,,,,,,"2/15/2022, 9:53:29 PM",Received 923000 SSX
+Metamask MATIC,SSX,SSX,,,Deposit,923000,,,,,,"2/1/2022, 11:32:43 PM",Received 923000 SSX
+Metamask MATIC,USD Coin,USDC,,,Deposit,257.499829,,1,,,,"1/15/2022, 1:35:54 PM",Received 257.4998 USDC
+Metamask MATIC,Minereum,MNE,,,Deposit,0,,,,,,"1/15/2022, 11:21:30 AM",Received 300000 MNEP
+Metamask MATIC,Toucan Protocol: Base Carbon Tonne,BCT,,,Withdraw,28.373361631388082,,5.47,,0.082404,matic-network,"1/7/2022, 12:48:27 AM",Swapped 28.3734 BCT for 154.5397 USDC
+Metamask MATIC,USD Coin,USDC,,,Deposit,154.539706,,1,,,,"1/7/2022, 12:48:27 AM",Swapped 28.3734 BCT for 154.5397 USDC
+Metamask MATIC,Toucan Protocol: Base Carbon Tonne,BCT,,,Approve,0,,5.47,,0.0360682,matic-network,"1/7/2022, 12:47:09 AM",Approved BCT
+Metamask MATIC,Klima DAO,KLIMA,,,Withdraw,0.97465062,,159.58,,0.083244,matic-network,"1/7/2022, 12:43:32 AM",Swapped 0.9747 KLIMA for 28.3734 BCT
+Metamask MATIC,Toucan Protocol: Base Carbon Tonne,BCT,,,Deposit,28.373361631388082,,5.47,,,,"1/7/2022, 12:43:32 AM",Swapped 0.9747 KLIMA for 28.3734 BCT
+Metamask MATIC,Klima DAO,KLIMA,,,Approve,0,,159.58,,0.0325521,matic-network,"1/7/2022, 12:42:36 AM",Approved KLIMA
+Metamask MATIC,Klima DAO,KLIMA,,,Deposit,0.97465062,,224.22,,,,"1/5/2022, 11:22:33 PM",Received 0.9747 KLIMA
+Metamask MATIC,Polygon,MATIC,,,Withdraw,0,,2.72687042,,0.00802002,matic-network,"12/28/2021, 1:28:44 AM",Smart Contract Executed
+Metamask MATIC,USD Coin,USDC,,,Withdraw,250,,1,,0.00636085,matic-network,"12/28/2021, 1:27:50 AM",Swapped 250 USDC for 37.6938 BCT
+Metamask MATIC,Toucan Protocol: Base Carbon Tonne,BCT,,,Deposit,37.693840266895194,,6.74,,,,"12/28/2021, 1:27:50 AM",Swapped 250 USDC for 37.6938 BCT
+Metamask MATIC,USD Coin,USDC,,,Deposit,1268.4,,1,,,,"12/28/2021, 1:25:58 AM",Received 1268.4 USDC
+Metamask MATIC,Polygon,MATIC,,,Deposit,9.9,,2.72687042,,,,"12/28/2021, 1:25:00 AM",Received 9.9 MATIC
+Metamask MATIC,Toucan Protocol: Base Carbon Tonne,BCT,,,Approve,0,,6.74,,0.0015375,matic-network,"12/28/2021, 12:59:18 AM",Approved BCT
+Metamask MATIC,USD Coin,USDC,,,Withdraw,55.1827,,1,,0.00387915,matic-network,"12/28/2021, 12:57:52 AM",Swapped 55.1827 USDC for 8.2902 BCT
+Metamask MATIC,Toucan Protocol: Base Carbon Tonne,BCT,,,Deposit,8.290176019269989,,6.74,,,,"12/28/2021, 12:57:52 AM",Swapped 55.1827 USDC for 8.2902 BCT
+Metamask MATIC,Toucan Protocol: Base Carbon Tonne,BCT,,USD,Fill,45.984016286165186,6.74,6.74,,,,"12/28/2021, 12:57:52 AM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Metamask MATIC,USD Coin,USDC,,,Approve,0,,1,,0.00175338,matic-network,"12/28/2021, 12:56:54 AM",Approved USDC
+Metamask MATIC,USD Coin,USDC,,,Deposit,55.1827,,1,,,,"12/27/2021, 6:36:57 PM",Received 55.1827 USDC
+Metamask MATIC,DxDex.io,DxDex.io,,,Deposit,0,,,,,,"10/12/2021, 10:29:42 PM",Received 800000 DxDex.io
+Metamask MATIC,Polygon,MATIC,,,Deposit,0.01,,1.24302576,,,,"10/12/2021, 10:03:52 PM",Received 0.01 MATIC
+Metamask MATIC,Zepe.io,Zepe.io,,,Deposit,750000,,,,,,"9/16/2021, 12:51:21 AM",Received 750000 Zepe.io and 500 more
+Metamask MATIC,WETH,WETH,,,Deposit,0.02,,3610.53,,,,"9/16/2021, 12:29:11 AM",Received 0.02 WETH
+Metamask MATIC,Polygon,MATIC,,USD,Fill,0.02516255500000142,0.3968522672216717,0.3968522672216717,,,,"9/16/2021, 12:29:11 AM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Coinbase,USD Coin,USDC,Coinbase,USD,Interest Earn,0.330039,1.001,1.001,,,,"6/5/2022, 4:48:15 PM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,3135.17,1,1,,,,"5/18/2022, 6:32:56 AM",
+Coinbase,USD,USD,Coinbase,USD,Sell,4685.77,1,1,,,,"5/18/2022, 6:32:56 AM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,8000,1,1,,,,"5/18/2022, 6:32:56 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Sell,4685.77,1.001,1.001,,,,"5/18/2022, 3:38:01 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Interest Earn,0.57722,0.998791,0.998791,,,,"5/5/2022, 9:10:29 PM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Interest Earn,0.596379,0.998976,0.998976,,,,"4/5/2022, 12:25:01 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Interest Earn,0.538607,1,1,,,,"3/8/2022, 11:20:20 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Interest Earn,0.881327,1,1,,,,"2/3/2022, 9:28:56 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,1.98121243,2424.46,2424.46,,0.003234,ethereum,"1/28/2022, 12:38:47 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,1.02728585,2424.46,2424.46,,,,"1/28/2022, 12:37:41 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,1.56402337,2417.22,2417.22,,,,"1/28/2022, 12:35:24 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Withdraw,1000,0.999204,0.999204,,,,"1/7/2022, 7:30:49 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Withdraw,10000,0.999204,0.999204,,,,"1/7/2022, 7:28:18 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Interest Earn,0.274209,0.990626,0.990626,,,,"1/5/2022, 1:29:57 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Withdraw,14182.91,1,1,,,,"12/27/2021, 5:49:30 PM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Withdraw,1500,1,1,,,,"12/27/2021, 5:46:04 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,Withdraw,7320.863569,2.253830425,2.253830425,,,,"12/1/2021, 4:59:07 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.786551,1.95791499851885,1.95791499851885,,,,"12/1/2021, 4:44:09 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.786482,1.8309382795791893,1.8309382795791893,,,,"11/30/2021, 3:20:39 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.786389,1.729423987365032,1.729423987365032,,,,"11/29/2021, 10:58:01 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.786308,1.640578501045392,1.640578501045392,,,,"11/28/2021, 1:11:11 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.786209,1.6789428765124794,1.6789428765124794,,,,"11/27/2021, 12:10:20 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.786143,1.6663634987527713,1.6663634987527713,,,,"11/26/2021, 4:26:54 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,1.11240768,4499.75,4499.75,,0.002856,ethereum,"11/25/2021, 7:30:47 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,1.10409401,4499.75,4499.75,,,,"11/25/2021, 7:18:46 PM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,8000,1,1,,,,"11/25/2021, 7:13:44 PM",
+Coinbase,USD,USD,Coinbase,USD,Deposit,20000,1,1,,,,"11/25/2021, 7:13:19 PM",
+Coinbase,USD,USD,Coinbase,USD,Deposit,20000,1,1,,,,"11/25/2021, 7:13:18 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.786058,1.7555956430695951,1.7555956430695951,,,,"11/25/2021, 11:04:27 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785955,1.7939958394564575,1.7939958394564575,,,,"11/24/2021, 11:26:33 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785882,1.7687133691826509,1.7687133691826509,,,,"11/23/2021, 4:32:45 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785803,1.7434395134658434,1.7434395134658434,,,,"11/22/2021, 1:24:10 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.7857,1.8327605956471937,1.8327605956471937,,,,"11/21/2021, 11:50:58 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785629,1.794740265443358,1.794740265443358,,,,"11/20/2021, 5:02:14 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785548,1.8458451934191162,1.8458451934191162,,,,"11/19/2021, 1:22:09 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785462,1.947898179670054,1.947898179670054,,,,"11/18/2021, 12:15:31 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785367,1.6807428883566535,1.6807428883566535,,,,"11/17/2021, 12:40:56 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785285,1.7318553136759267,1.7318553136759267,,,,"11/16/2021, 3:51:40 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785196,1.9358223933896759,1.9358223933896759,,,,"11/15/2021, 2:58:27 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785122,1.9614785982305936,1.9614785982305936,,,,"11/14/2021, 4:27:06 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.785034,2.0636048884506915,2.0636048884506915,,,,"11/13/2021, 1:24:57 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784944,2.242198169550949,2.242198169550949,,,,"11/12/2021, 2:28:34 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784877,1.987572575065902,1.987572575065902,,,,"11/11/2021, 4:01:03 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784793,1.9495586734336317,1.9495586734336317,,,,"11/10/2021, 11:11:05 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784683,1.9753199699751365,1.9753199699751365,,,,"11/9/2021, 10:58:16 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784614,2.0392192848967774,2.0392192848967774,,,,"11/8/2021, 6:20:01 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784534,1.8354845041770018,1.8354845041770018,,,,"11/7/2021, 1:55:00 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.78443,1.797483523067705,1.797483523067705,,,,"11/6/2021, 12:47:42 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784359,1.8613925511149867,1.8613925511149867,,,,"11/5/2021, 6:17:20 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784286,1.8743162570796876,1.8743162570796876,,,,"11/4/2021, 2:42:53 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784201,1.9637822446031055,1.9637822446031055,,,,"11/3/2021, 11:28:43 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.784113,1.887483054100621,1.887483054100621,,,,"11/2/2021, 11:36:52 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.78403,1.823909799369922,1.823909799369922,,,,"11/1/2021, 12:41:49 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783926,1.7731265451075737,1.7731265451075737,,,,"10/31/2021, 12:24:42 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783849,1.811573402530334,1.811573402530334,,,,"10/30/2021, 6:00:23 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783764,1.8628056404734077,1.8628056404734077,,,,"10/29/2021, 3:49:58 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783688,1.875746470534192,1.875746470534192,,,,"10/28/2021, 4:00:09 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783593,1.8376886980868894,1.8376886980868894,,,,"10/27/2021, 1:43:17 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783512,2.0165613289904942,2.0165613289904942,,,,"10/26/2021, 5:00:25 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783429,1.9912461754670812,1.9912461754670812,,,,"10/25/2021, 4:03:12 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783348,1.8127320169324488,1.8127320169324488,,,,"10/24/2021, 3:42:36 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.78327,1.902281461054298,1.902281461054298,,,,"10/23/2021, 2:37:42 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.78318,1.9152685206465947,1.9152685206465947,,,,"10/22/2021, 1:03:29 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.7831,1.8260758523815603,1.8260758523815603,,,,"10/21/2021, 2:46:23 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.783001,1.7369071048440554,1.7369071048440554,,,,"10/20/2021, 1:25:15 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782914,1.7115545257844413,1.7115545257844413,,,,"10/19/2021, 5:40:33 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782848,1.7372465663832573,1.7372465663832573,,,,"10/18/2021, 6:32:26 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782747,1.8396748885655263,1.8396748885655263,,,,"10/17/2021, 1:18:19 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782669,1.8143046421922933,1.8143046421922933,,,,"10/16/2021, 6:16:45 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782591,1.7505951384567418,1.7505951384567418,,,,"10/15/2021, 4:29:56 PM",
+Coinbase,Celo,CELO,Coinbase,USD,Withdraw,0.83,6.886697562199999,6.886697562199999,,0.0001,celo,"10/15/2021, 12:35:55 AM",
+Coinbase,Celo,CELO,Coinbase,USD,Withdraw,0.8301,6.886697562199999,6.886697562199999,,,,"10/15/2021, 12:35:42 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782502,1.8530304075900124,1.8530304075900124,,,,"10/14/2021, 2:38:09 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782408,1.72544248013824,1.72544248013824,,,,"10/13/2021, 4:11:37 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782349,1.7255726025085993,1.7255726025085993,,,,"10/12/2021, 6:48:13 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Deposit,0.043,3497.56,3497.56,,,,"10/11/2021, 9:25:40 PM",
+Coinbase,Polygon,MATIC,Coinbase,USD,Withdraw,114.2,2.9050126990000003,2.9050126990000003,,7.60750587,matic-network,"10/11/2021, 9:24:16 PM",
+Coinbase,Polygon,MATIC,Coinbase,USD,Withdraw,121.80750587,2.9050126990000003,2.9050126990000003,,,,"10/11/2021, 9:12:02 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.78225,1.7897091722595078,1.7897091722595078,,,,"10/11/2021, 11:45:16 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782173,1.8410249394954823,1.8410249394954823,,,,"10/10/2021, 4:02:50 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.782078,1.9435401583985228,1.9435401583985228,,,,"10/9/2021, 2:05:52 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781995,1.9821098600374683,1.9821098600374683,,,,"10/8/2021, 5:04:37 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781932,1.8799588711038813,1.8799588711038813,,,,"10/7/2021, 4:49:45 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781832,1.8290374402684975,1.8290374402684975,,,,"10/6/2021, 10:59:01 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781737,1.9571799722924719,1.9571799722924719,,,,"10/5/2021, 3:26:35 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781677,2.008502233019521,2.008502233019521,,,,"10/4/2021, 6:35:32 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781581,1.8296248245543327,1.8296248245543327,,,,"10/3/2021, 11:35:54 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781493,1.8170348294866363,1.8170348294866363,,,,"10/2/2021, 3:14:10 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781416,1.7532274742262766,1.7532274742262766,,,,"10/1/2021, 4:10:20 PM",
+Coinbase,Solana,SOL,Coinbase,USD,Deposit,359.805275,156.42833651799998,156.42833651799998,,,,"9/30/2021, 11:51:57 PM",
+Coinbase,Solana,SOL,Coinbase,USD,Deposit,359.805275,156.42833651799998,156.42833651799998,,,,"9/30/2021, 11:51:56 PM",
+Coinbase,Solana,SOL,Coinbase,USD,Deposit,9.99,156.42833651799998,156.42833651799998,,,,"9/30/2021, 11:45:37 PM",
+Coinbase,Solana,SOL,Coinbase,USD,Deposit,9.99,156.42833651799998,156.42833651799998,,,,"9/30/2021, 11:45:36 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781318,1.5870618621355197,1.5870618621355197,,,,"9/30/2021, 2:20:56 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781233,1.5872345382235518,1.5872345382235518,,,,"9/29/2021, 6:25:00 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.781167,1.6257727220939955,1.6257727220939955,,,,"9/28/2021, 6:35:05 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.78108,1.8179955958416552,1.8179955958416552,,,,"9/27/2021, 1:31:57 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.78099,1.7285752698498063,1.7285752698498063,,,,"9/26/2021, 2:16:11 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.780888,1.7544129247728228,1.7544129247728228,,,,"9/25/2021, 4:08:04 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.78074,1.7803622204575145,1.7803622204575145,,,,"9/24/2021, 5:08:49 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.780507,1.9218277350491413,1.9218277350491413,,,,"9/24/2021, 4:04:01 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.780672,1.9470404984423675,1.9470404984423675,,,,"9/23/2021, 3:37:40 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.780568,1.6782650582652632,1.6782650582652632,,,,"9/22/2021, 11:10:11 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.780543,1.7039419993517335,1.7039419993517335,,,,"9/21/2021, 4:43:52 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.659945,2.0001666805567133,2.0001666805567133,,,,"9/19/2021, 12:13:43 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,inflation_reward,0.007079,1.4126289023873428,1.4126289023873428,,,,"9/18/2021, 6:02:44 PM",
+Coinbase,Algorand,ALGO,Coinbase,USD,Withdraw,3719,1.86961082,1.86961082,,,,"9/18/2021, 7:14:17 AM",
+Coinbase,Algorand,ALGO,Coinbase,USD,Withdraw,3544,1.8192262549999998,1.8192262549999998,,,,"9/17/2021, 11:33:13 PM",
+Coinbase,Stellar,XLM,Coinbase,USD,Withdraw,15736,0.2880492444,0.2880492444,,,,"9/17/2021, 9:08:56 PM",
+Coinbase,Stellar,XLM,Coinbase,USD,Withdraw,15736,0.2880492444,0.2880492444,,,,"9/17/2021, 9:08:44 PM",
+Coinbase,Stellar,XLM,Coinbase,USD,Withdraw,849,0.2880492444,0.2880492444,,,,"9/17/2021, 9:04:06 PM",
+Coinbase,Stellar,XLM,Coinbase,USD,Withdraw,849,0.2880492444,0.2880492444,,,,"9/17/2021, 9:03:49 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,4,3309.13,3309.13,,,,"9/11/2021, 4:13:26 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Deposit,3.78048964,3309.13,3309.13,,,,"9/11/2021, 4:00:49 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.15048999000000002,3322.48,3322.48,,0.001764,ethereum,"9/11/2021, 3:00:51 PM",
+Coinbase,Stellar,XLM,Coinbase,USD,Deposit,1e-7,0.24330213,0.24330213,,,,"8/2/2021, 6:20:47 PM",
+Coinbase,Solana,SOL,Coinbase,USD,Withdraw,253.37699500000002,114.9973721,114.9973721,,0.000005,solana,"7/22/2021, 10:16:04 PM",
+Coinbase,Solana,SOL,Coinbase,USD,Withdraw,253.377,114.9973721,114.9973721,,,,"7/22/2021, 10:15:24 PM",
+Coinbase,USD,USD,Coinbase,USD,Deposit,20000,1,1,,,,"12/31/2020, 9:46:07 PM",
+Coinbase,USD,USD,Coinbase,USD,Deposit,20000,1,1,,,,"12/31/2020, 9:46:06 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.6919455,28871,28871,,0.00003804,bitcoin,"12/31/2020, 12:25:39 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.69198354,28732.2,28732.2,,,,"12/30/2020, 11:07:38 PM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,24591.76,1,1,,,,"12/30/2020, 11:02:38 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.03669921,26801.34,26801.34,,,,"12/28/2020, 10:45:52 PM",
+Coinbase,USD,USD,Coinbase,USD,Buy,1000,1,1,,,,"12/28/2020, 10:45:50 PM",
+Coinbase,USD,USD,Coinbase,USD,Deposit,20000,1,1,,,,"12/10/2020, 6:46:15 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Deposit,0.05428631,373.1,373.1,,,,"10/10/2020, 5:26:18 PM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,185351.62,1,1,,,,"8/23/2019, 6:15:24 PM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,185351.62,1,1,,,,"8/23/2019, 6:15:23 PM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,6313,1,1,,,,"8/21/2019, 11:24:05 PM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,6313,1,1,,,,"8/21/2019, 11:24:05 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.999889,10064.085,10064.085,,,,"8/21/2019, 11:22:15 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.999889,10060.005,10060.005,,,,"8/21/2019, 9:34:39 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,9.999815,10107.905,10107.905,,,,"8/21/2019, 5:54:18 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,9.999815,10110.77,10110.77,,,,"8/21/2019, 5:05:39 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,5,10110.77,10110.77,,,,"8/21/2019, 4:45:35 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,5,10004.995,10004.995,,,,"8/21/2019, 2:57:54 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,1.99993,10150.415,10150.415,,,,"8/21/2019, 8:44:49 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,1.99993,10114.575,10114.575,,,,"8/21/2019, 8:16:48 AM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,4744,1,1,,,,"8/21/2019, 8:14:17 AM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,4744,1,1,,,,"8/21/2019, 8:14:16 AM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,5259.12,1,1,,,,"8/21/2019, 8:13:11 AM",
+Coinbase,USD,USD,Coinbase,USD,Withdraw,5259.12,1,1,,,,"8/21/2019, 8:13:10 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.99981,10114.575,10114.575,,,,"8/21/2019, 8:09:26 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,1.89981,10146.915,10146.915,,,,"8/21/2019, 7:09:04 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.02,10146.915,10146.915,,,,"8/21/2019, 7:00:31 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.1,10146.915,10146.915,,,,"8/21/2019, 6:33:40 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.08041688,309.665,309.665,,0.000084,ethereum,"6/25/2019, 1:20:24 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.5,265.845,265.845,,0.00042,ethereum,"6/15/2019, 3:18:31 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Buy,0.92210443,265.845,265.845,,,,"6/15/2019, 3:16:03 AM",
+Coinbase,USD,USD,Coinbase,USD,Buy,250,1,1,,,,"6/15/2019, 3:16:02 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.19999999999999998,247.63,247.63,,0.000399,ethereum,"5/22/2019, 8:36:22 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.14029296,120.935,120.935,,0.000168,ethereum,"2/13/2019, 1:33:41 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.42468149,119.945,119.945,,0.000147,ethereum,"2/11/2019, 10:52:51 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.21459989999999998,139.185,139.185,,0.000147,ethereum,"1/2/2019, 3:25:15 AM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Withdraw,15451.66,1.01170745,1.01170745,,,,"12/4/2018, 6:56:06 PM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Buy,15361.66,1.01170745,1.01170745,,,,"12/4/2018, 6:51:20 PM",
+Coinbase,USD,USD,Coinbase,USD,Buy,15361.66,1,1,,,,"12/4/2018, 6:51:19 PM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Withdraw,10,1.03891373,1.03891373,,,,"11/27/2018, 8:55:45 PM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Buy,100,1.03891373,1.03891373,,,,"11/27/2018, 2:31:52 AM",
+Coinbase,USD,USD,Coinbase,USD,Buy,100,1,1,,,,"11/27/2018, 2:31:51 AM",
+Coinbase,USD,USD,Coinbase,USD,Sell,15312.91,1,1,,,,"11/7/2018, 8:23:06 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,2.4,6511.01,6511.01,,,,"11/7/2018, 8:23:04 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,2.4,6496.9,6496.9,,,,"11/7/2018, 5:16:29 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.15947504999999998,218.88,218.88,,0.000231,ethereum,"11/7/2018, 1:20:05 AM",
+Coinbase,USD,USD,Coinbase,USD,Sell,5990.51,1,1,,,,"10/6/2018, 5:52:51 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,0.93221049,6553.46,6553.46,,,,"10/6/2018, 5:52:50 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.00375,6643.02,6643.02,,0.00007457,bitcoin,"9/28/2018, 6:10:33 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.25,196.39,196.39,,0.000105,ethereum,"9/18/2018, 12:53:13 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Deposit,0.994,273.92,273.92,,,,"8/20/2018, 10:57:57 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Deposit,0.00501,282.7,282.7,,,,"8/20/2018, 9:38:29 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.005495,6400,6400,,0.00000711,bitcoin,"8/18/2018, 9:53:26 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.88153717,6621.8,6621.8,,,,"6/14/2018, 9:36:31 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Sell,10.07039204,734.1,734.1,,,,"5/7/2018, 7:10:36 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Buy,9.79805532,513.43,513.43,,,,"4/13/2018, 2:26:41 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Sell,17.57341926,405,405,,,,"3/30/2018, 7:28:28 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,0.20418321,7200.04,7200.04,,,,"3/30/2018, 7:27:16 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.52506,474.3,474.3,,,,"3/26/2018, 8:43:02 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Buy,12.81518388,542.14,542.14,,,,"3/23/2018, 11:49:30 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.21651562,872.44,872.44,,0.000189,ethereum,"3/1/2018, 4:40:55 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Sell,2.41494779,933.91,933.91,,,,"2/16/2018, 4:32:19 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Deposit,2.66968109,931.5,931.5,,,,"2/15/2018, 9:49:43 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.12524,984.03,984.03,,0.00084,ethereum,"1/23/2018, 11:19:07 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.03014,1049,1049,,0.001407,ethereum,"1/18/2018, 12:44:38 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.00186,10919.24,10919.24,,,,"1/17/2018, 8:18:06 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.00742,1331.87,1331.87,,0.001092,ethereum,"1/14/2018, 10:49:33 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.12856,992,992,,0.0040923,ethereum,"1/6/2018, 6:39:38 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.051699999999999996,953.43,953.43,,0.00252,ethereum,"1/5/2018, 10:11:45 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.1,731.99,731.99,,0.00084,ethereum,"12/22/2017, 9:41:31 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Buy,4,470.59,470.59,,,,"12/8/2017, 4:25:58 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.08,15828.97,15828.97,,,,"12/8/2017, 4:25:18 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.01004323,433.54,433.54,,0.000882,ethereum,"12/6/2017, 7:21:10 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Buy,1.2028,439.75,439.75,,,,"12/6/2017, 4:01:55 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.05,12810,12810,,,,"12/6/2017, 3:55:02 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Buy,1.28924323,448.28,448.28,,,,"11/30/2017, 8:02:52 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.06004321,10369.15,10369.15,,,,"11/30/2017, 8:02:51 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.00158,470.97,470.97,,0.00042,ethereum,"11/28/2017, 7:58:51 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.02,329.63,329.63,,,,"11/16/2017, 11:59:22 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.002,7926.02,7926.02,,,,"11/16/2017, 11:58:51 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.000915,7695,7695,,,,"11/16/2017, 5:02:57 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,0.01559326,331.35,331.35,,,,"11/16/2017, 5:02:18 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Deposit,0.25559326,331.35,331.35,,,,"11/16/2017, 4:52:05 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.011592539999999998,7695,7695,,0.001085,bitcoin,"11/16/2017, 4:48:11 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.00868459,7227.92,7227.92,,,,"11/10/2017, 4:58:08 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.0088,6890,6890,,,,"11/2/2017, 1:42:01 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.09410795,5701.23,5701.23,,,,"10/26/2017, 1:21:50 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Sell,2,248.91,248.91,,,,"9/16/2017, 3:29:18 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,0.15,3620.98,3620.98,,,,"9/16/2017, 3:28:07 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Sell,1.98432295,248.98,248.98,,,,"9/15/2017, 3:33:24 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,0.13103732,3850.01,3850.01,,,,"9/15/2017, 3:30:48 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.28103732,4345.68,4345.68,,,,"9/8/2017, 10:25:48 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Withdraw,3.9999999999999996,309.43,309.43,,0.000588,ethereum,"9/8/2017, 10:16:07 PM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Buy,7.98491095,321.99,321.99,,,,"9/5/2017, 9:44:01 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,11.5,1016.51,1016.51,,,,"3/24/2017, 1:30:54 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,11,1016.51,1016.51,,,,"3/24/2017, 12:37:04 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,11,1016.51,1016.51,,,,"3/24/2017, 12:37:04 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,3,1180.43,1180.43,,,,"3/9/2017, 8:31:47 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,3,1278.99,1278.99,,,,"3/7/2017, 6:57:22 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,3,1278.99,1278.99,,,,"3/7/2017, 6:57:22 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,1.33413416,1274.71,1274.71,,,,"3/5/2017, 4:54:26 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,1.5,1251.09,1251.09,,,,"3/5/2017, 6:54:43 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.5,1251.09,1251.09,,,,"3/5/2017, 6:54:43 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,3,1277.06,1277.06,,,,"3/2/2017, 5:48:20 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,3,1277.06,1277.06,,,,"3/2/2017, 5:48:20 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.0135343,903.13,903.13,,,,"1/18/2017, 6:41:40 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.01492053,903.13,903.13,,,,"1/18/2017, 6:41:35 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.005937,904.4,904.4,,,,"1/18/2017, 5:59:24 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.01652464,915.61,915.61,,,,"1/18/2017, 1:07:57 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.131156,961.77,961.77,,,,"12/31/2016, 6:47:03 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.03594961,769.21,769.21,,,,"12/9/2016, 6:47:26 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,15.5,731.14,731.14,,,,"11/28/2016, 5:14:11 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,15.5,731.14,731.14,,,,"11/28/2016, 5:14:11 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.49025702,606.98,606.98,,,,"9/26/2016, 7:40:05 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.01,615.39,615.39,,,,"9/7/2016, 7:26:17 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.84023798,574.99,574.99,,,,"8/30/2016, 5:48:08 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,0.84023798,574.99,574.99,,,,"8/30/2016, 5:46:14 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,4.32641957,580.93,580.93,,,,"8/17/2016, 9:47:50 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,9.48352748,569.69,569.69,,,,"8/16/2016, 12:32:02 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.3794396,568.93,568.93,,,,"8/15/2016, 11:36:33 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.07877212,568.93,568.93,,,,"8/15/2016, 11:36:32 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.19349084,568.09,568.09,,,,"8/15/2016, 10:50:03 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,1,599.5,599.5,,,,"8/10/2016, 2:43:52 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.0008,594.05,594.05,,,,"8/8/2016, 4:55:59 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.0063204,593.61,593.61,,,,"8/8/2016, 3:53:17 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.0015,657.75,657.75,,,,"7/30/2016, 2:43:32 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.0089,657.75,657.75,,,,"7/30/2016, 2:43:30 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.02335412,657.75,657.75,,,,"7/30/2016, 2:33:20 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.4995,659.93,659.93,,,,"7/28/2016, 2:39:48 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1.73280677,657.35,657.35,,,,"7/27/2016, 9:14:13 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.22995,654.47,654.47,,,,"7/27/2016, 3:24:31 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.52,657.84,657.84,,,,"7/26/2016, 8:42:23 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,3.1249,689.63,689.63,,,,"6/14/2016, 6:09:53 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,3.1249,576.62,576.62,,,,"6/8/2016, 1:08:47 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,4.65024754,416.86,416.86,,,,"4/1/2016, 3:35:12 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,3.5178107,414.57,414.57,,,,"3/29/2016, 8:08:19 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,1.9999,422.14,422.14,,,,"3/28/2016, 7:13:11 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,0.5,411.44,411.44,,,,"3/21/2016, 9:59:29 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.5,411.44,411.44,,,,"3/21/2016, 9:55:27 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.5,410.55,410.55,,,,"3/19/2016, 10:34:49 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,6.7461207,406,406,,,,"3/19/2016, 5:16:37 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,2.9961207,415.72,415.72,,,,"3/15/2016, 7:23:34 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,4,415.36,415.36,,,,"3/14/2016, 5:01:59 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,7.00020105,405.37,405.37,,,,"3/5/2016, 6:26:53 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.00020105,421.84,421.84,,,,"2/26/2016, 12:28:30 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1.75,421.84,421.84,,,,"2/25/2016, 11:47:15 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.75,421.84,421.84,,,,"2/25/2016, 11:36:51 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.25,441.89,441.89,,,,"2/20/2016, 11:10:15 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.5,378.01,378.01,,,,"2/10/2016, 8:57:56 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,5.91500929,372.39,372.39,,,,"2/9/2016, 8:39:00 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,5.82557,370.68,370.68,,,,"2/8/2016, 10:36:55 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,2.93136,378.88,378.88,,,,"2/8/2016, 6:06:30 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.10863,414.68,414.68,,,,"12/10/2015, 5:17:29 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.02765526,360.54,360.54,,,,"12/2/2015, 9:01:25 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.060677,333.99,333.99,,,,"11/26/2015, 6:48:46 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.136,439.72,439.72,,,,"11/4/2015, 8:00:13 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,2.474,402.57,402.57,,,,"11/3/2015, 10:29:29 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1,364.04,364.04,,,,"11/3/2015, 12:31:00 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1,299.04,299.04,,,,"10/28/2015, 5:50:12 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.2618,237.78,237.78,,,,"9/29/2015, 11:15:40 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.2723,235.76,235.76,,,,"9/25/2015, 11:26:08 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.0192006,232.25,232.25,,,,"9/15/2015, 2:34:16 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.30366,296.52,296.52,,,,"7/28/2015, 9:14:37 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,0.25,239.75,239.75,,,,"6/16/2015, 6:22:47 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.0206,229.42,229.42,,,,"6/12/2015, 5:37:34 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,12,340,340,,,,"12/29/2014, 6:23:18 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,0.01,414.669,414.669,,,,"4/14/2014, 8:01:41 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.01,414.669,414.669,,,,"4/14/2014, 7:41:57 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.01,414.669,414.669,,,,"4/14/2014, 7:34:41 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.001,582.841,582.841,,,,"3/26/2014, 3:20:01 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,1.70709163,621.131,621.131,,,,"3/18/2014, 4:58:54 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,2.7,621.131,621.131,,,,"3/18/2014, 4:44:23 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.00118355,632.68,632.68,,,,"3/17/2014, 5:45:41 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,2.34,632.68,632.68,,,,"3/17/2014, 4:18:43 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,3.05,634.94,634.94,,,,"3/13/2014, 5:22:33 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.75,634.94,634.94,,,,"3/13/2014, 4:23:23 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1.54,662.32,662.32,,,,"3/7/2014, 8:18:24 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,2.63,662.64,662.64,,,,"3/4/2014, 1:57:05 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.39,626.58,626.58,,,,"2/20/2014, 8:24:58 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,2.63,629.56,629.56,,,,"2/17/2014, 9:10:15 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,4.52118355,595.99,595.99,,,,"2/14/2014, 6:31:49 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.35,595.99,595.99,,,,"2/14/2014, 1:23:41 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.39,655.7,655.7,,,,"2/13/2014, 10:38:29 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1.39,655.7,655.7,,,,"2/13/2014, 10:35:52 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,3.34,655.7,655.7,,,,"2/13/2014, 1:13:32 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.67,655.7,655.7,,,,"2/13/2014, 12:23:53 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.63,670.55,670.55,,,,"2/12/2014, 7:24:16 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.69,683.5,683.5,,,,"2/11/2014, 8:23:43 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.69,683.5,683.5,,,,"2/11/2014, 8:23:43 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.66,681.32,681.32,,,,"2/10/2014, 11:23:13 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.64,704.83,704.83,,,,"2/8/2014, 3:17:43 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.64,704.83,704.83,,,,"2/8/2014, 1:25:38 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.77,764.04,764.04,,,,"2/7/2014, 2:35:56 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.77,764.04,764.04,,,,"2/7/2014, 2:33:50 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.62,764.04,764.04,,,,"2/7/2014, 1:59:35 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.62,819.81,819.81,,,,"2/6/2014, 5:27:08 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.26,819.81,819.81,,,,"2/6/2014, 10:08:38 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.26,819.81,819.81,,,,"2/6/2014, 10:07:54 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.63,830.63,830.63,,,,"2/5/2014, 5:51:24 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.63,830.63,830.63,,,,"2/5/2014, 1:32:39 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.5,830.63,830.63,,,,"2/5/2014, 1:46:22 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.5,830.63,830.63,,,,"2/5/2014, 1:43:40 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.63,830.63,830.63,,,,"2/5/2014, 12:46:33 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.63,822.82,822.82,,,,"2/4/2014, 4:23:25 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.62,822.82,822.82,,,,"2/4/2014, 5:51:48 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.62,823.12,823.12,,,,"2/3/2014, 3:25:12 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1,821.62,821.62,,,,"1/31/2014, 8:00:07 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1,821.62,821.62,,,,"1/31/2014, 3:25:06 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.435,826.06,826.06,,,,"1/30/2014, 7:27:45 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.435,826.06,826.06,,,,"1/30/2014, 7:25:44 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.5,826.06,826.06,,,,"1/30/2014, 3:26:24 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.5,826.06,826.06,,,,"1/30/2014, 11:24:16 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.25,813.71,813.71,,,,"1/29/2014, 11:27:22 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.25,813.71,813.71,,,,"1/29/2014, 11:24:59 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.45,813.71,813.71,,,,"1/29/2014, 6:52:58 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.45,813.71,813.71,,,,"1/29/2014, 6:48:36 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.21,886.06,886.06,,,,"1/27/2014, 6:50:46 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.21,886.06,886.06,,,,"1/27/2014, 6:26:34 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1,800.85,800.85,,,,"1/25/2014, 6:11:54 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1,800.85,800.85,,,,"1/25/2014, 6:05:55 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1,873.11,873.11,,,,"1/21/2014, 6:51:31 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1,873.11,873.11,,,,"1/21/2014, 6:26:46 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.95,833.68,833.68,,,,"1/15/2014, 8:22:33 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.95,838.5,838.5,,,,"1/14/2014, 11:26:06 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.15,781.35,781.35,,,,"1/8/2014, 9:39:45 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1.15,781.35,781.35,,,,"1/8/2014, 8:25:16 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,1.1,961.68,961.68,,,,"1/7/2014, 11:16:42 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,1.1,961.68,961.68,,,,"1/7/2014, 9:24:42 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.1,804.03,804.03,,,,"1/3/2014, 7:01:04 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.25,774.76,774.76,,,,"1/2/2014, 11:22:21 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.05,761.59,761.59,,,,"1/1/2014, 12:44:11 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.5,755.57,755.57,,,,"12/31/2013, 11:49:26 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.1,755.57,755.57,,,,"12/31/2013, 12:46:53 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.51,619.14,619.14,,,,"12/21/2013, 1:28:01 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.01,1143.82,1143.82,,,,"12/5/2013, 12:08:22 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,0.1,1074.34,1074.34,,,,"12/4/2013, 11:46:43 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Buy,0.6,1043.24,1043.24,,,,"12/3/2013, 12:38:05 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Sell,3.55,120.82,120.82,,,,"8/23/2013, 8:01:56 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,3.55,120.82,120.82,,,,"8/23/2013, 6:53:56 PM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Withdraw,3.4797005,113.2,113.2,,,,"8/18/2013, 5:32:22 PM",
+Coinbase,USD Coin,USDC,Coinbase,USD,Fill,31365.82,0.999856,0.999856,,,,"8/18/2013, 3:29:11 AM",
+Coinbase,Ethereum,ETH,Coinbase,USD,Fill,7.390806460000004,3513.1576026909006,3513.1576026909006,,,,"8/18/2013, 3:29:11 AM",
+Coinbase,USD,USD,Coinbase,USD,Fill,357890.54,1,1,,,,"8/18/2013, 3:29:11 AM",
+Coinbase,Bitcoin,BTC,Coinbase,USD,Fill,31.384107080000003,46297.85519268495,46297.85519268495,,,,"8/18/2013, 3:29:11 AM",
+Coinbase,Stellar,XLM,Coinbase,USD,Fill,33170,0.2309112459457918,0.2309112459457918,,,,"8/18/2013, 3:29:11 AM",
+Coinbase,Polygon,MATIC,Coinbase,USD,Fill,243.61501174,1.6384232667247771,1.6384232667247771,,,,"8/18/2013, 3:29:11 AM","This is a fake transaction created to fill your balance, because Coinbase API does not send all your transactions"
+Coinbase,Celo,CELO,Coinbase,USD,Fill,1.6602,4.12,4.12,,,,"8/18/2013, 3:29:11 AM","This is a fake transaction created to fill your balance, because Coinbase API does not send all your transactions"
+Coinbase,Solana,SOL,Coinbase,USD,Fill,232.83655,129.7185843004605,129.7185843004605,,,,"8/18/2013, 3:29:11 AM","This is a fake transaction created to fill your balance, because Coinbase API does not send all your transactions"
+Coinbase,Algorand,ALGO,Coinbase,USD,Fill,14525.999999999996,0.8706583700934257,0.8706583700934257,,,,"8/18/2013, 3:29:11 AM","This is a fake transaction created to fill your balance, because Coinbase API does not send all your transactions"
+Coinbase,Bitcoin,BTC,Coinbase,USD,Deposit,3.4797005,113.2,113.2,,,,"8/18/2013, 3:29:11 AM",
+Coinbase Wallet #1,WETH,WETH,,,Deposit,0.15,,2006.77,,,,"5/22/2022, 1:14:58 AM",Received from 0xdfdf84311f259ba7647ade52f0cb1faece50c802
+Coinbase Wallet #1,WETH,WETH,,,Withdraw,0.01875,,2006.77,,0.00327634088758045,ethereum,"5/22/2022, 1:14:58 AM",Sent to 0x5b3256965e7c3cf26e11fcaf296dfc8807c01073
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,0.003,,2100.86776917,,0.000481863229218,ethereum,"5/15/2022, 12:09:44 AM",Sent to 0x9056b8c300dfea2424c87792e54dafb9e897bd40
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,0.00169896,,2100.86776917,,0.00041993533281,ethereum,"5/15/2022, 12:02:12 AM",Sent to 0x9056b8c300dfea2424c87792e54dafb9e897bd40
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,0.000021,,1995.96592214,,0.000456571479945,ethereum,"5/14/2022, 11:55:24 PM",Sent to 0x9056b8c300dfea2424c87792e54dafb9e897bd40
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,0.14626859668079986,,2698.7612151,,0.000780494106609,ethereum,"5/6/2022, 12:43:27 AM",Sent to 0x39b5d336df6d1b4c1b7d666a5979e47ee98804f1
+Coinbase Wallet #1,WETH,WETH,,,Withdraw,0.675,,2690.73,,0.01799789392834804,ethereum,"1/31/2022, 12:54:16 AM",Sent to 0x0fc67f461d0cb353bafe70c6728618a73a53cc9b
+Coinbase Wallet #1,WETH,WETH,,,Withdraw,0.615,,2537.97,,0.03239887054209225,ethereum,"1/28/2022, 11:09:26 PM",Sent to 0x88b75a04fb637abece152a2f92e7d121591b9135
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,1.3,,2521.33407374,,0.0080257716,ethereum,"1/28/2022, 6:42:33 PM",Sent to 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+Coinbase Wallet #1,Ethereum,ETH,,,Deposit,3.302,,2521.33407374,,,,"1/28/2022, 6:33:19 PM",Received from 0x4d34b20908a41e2fa587a46022d57c7ede318024
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,3.306819519799685,,2521.33407374,,0.003703324172709,ethereum,"1/28/2022, 6:26:01 PM",Sent to 0x4d34b20908a41e2fa587a46022d57c7ede318024
+Coinbase Wallet #1,Ethereum,ETH,,,Deposit,1.98121243,,2521.33407374,,,,"1/28/2022, 12:38:08 AM",Received from 0x3cd751e6b0078be393132286c442345e5dc49699
+Coinbase Wallet #1,Ethereum,ETH,,,Deposit,1.11240768,,4274.02675563,,,,"11/25/2021, 7:29:17 PM",Received from 0x3cd751e6b0078be393132286c442345e5dc49699
+Coinbase Wallet #1,AKSWAP.IO,AKSWAP.IO,,,Deposit,250000,,,,,,"9/11/2021, 4:53:38 PM",Received from 0x82dfdb2ec1aa6003ed4acba663403d7c2127ff67
+Coinbase Wallet #1,AKSWAP.IO,AKSWAP.IO,,USD,Fill,250000,,,,,,"9/11/2021, 4:53:38 PM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,3.7804896490193407,,3208.288108,,0.0015477,ethereum,"9/11/2021, 3:59:42 PM",Sent to 0xe786295126fffa2a23b799a9a7d723a20d7cd2e2
+Coinbase Wallet #1,Sifchain,EROWAN,,,Withdraw,11330.679,,0.288985,,0.0094196564,ethereum,"9/11/2021, 3:31:35 PM",Sent to 0x13cd8c3be06baae672f64bf3f59331b39a5ed5e9
+Coinbase Wallet #1,Sifchain,EROWAN,,,Withdraw,10000,,0.288985,,0.009174,ethereum,"9/11/2021, 3:26:09 PM",Sent to 0x13cd8c3be06baae672f64bf3f59331b39a5ed5e9
+Coinbase Wallet #1,Sifchain,EROWAN,,,Withdraw,9724.06714070184,,0.288985,,0.0075846584,ethereum,"9/11/2021, 3:25:11 PM",Sent to 0x13cd8c3be06baae672f64bf3f59331b39a5ed5e9
+Coinbase Wallet #1,Sifchain,EROWAN,,,Withdraw,10000,,0.288985,,0.00880704,ethereum,"9/11/2021, 3:23:17 PM",Sent to 0x13cd8c3be06baae672f64bf3f59331b39a5ed5e9
+Coinbase Wallet #1,Sifchain,EROWAN,,,Withdraw,0.7918436950631316,,0.288985,,0.008287092,ethereum,"9/11/2021, 3:12:50 PM",Sent to 0x659a9a43b32bea6c113c393930a45c7634a242d5
+Coinbase Wallet #1,Sifchain,EROWAN,,,Withdraw,10000,,0.288985,,0.00880704,ethereum,"9/11/2021, 3:09:09 PM",Sent to 0x13cd8c3be06baae672f64bf3f59331b39a5ed5e9
+Coinbase Wallet #1,Ethereum,ETH,,,Deposit,0.15048999,,3208.288108,,,,"9/11/2021, 2:59:55 PM",Received from 0xb5d85cbf7cb3ee0d56b3bb207d5fc4b82f43f511
+Coinbase Wallet #1,Sifchain,EROWAN,,,Deposit,29687.80749089094,,0.232738,,,,"8/5/2021, 11:57:12 PM",Received from 0xecd0e78f62dd5c7b441e6acfee843d357ac126f5
+Coinbase Wallet #1,Sifchain,EROWAN,,,Deposit,10189.398184991287,,0.232738,,,,"8/5/2021, 11:55:10 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,0.84,,2726.98166155,,0.0092810872,ethereum,"8/5/2021, 11:55:10 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Coinbase Wallet #1,Sifchain,EROWAN,,,Deposit,10178.332398139491,,0.232738,,,,"8/5/2021, 11:53:22 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Coinbase Wallet #1,Ethereum,ETH,,,Withdraw,0.84,,2726.98166155,,0.0103894945,ethereum,"8/5/2021, 11:53:22 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Coinbase Wallet #1,Ethereum,ETH,,,Deposit,1.70469,,2726.98166155,,,,"8/5/2021, 11:44:49 PM",Received from 0xf60c2ea62edbfe808163751dd0d8693dcb30019c
+Coinbase Wallet #1,Ethereum,ETH,,USD,Fill,4.998232840103927,2933.265616535757,2933.265616535757,,,,"8/4/2021, 9:41:48 PM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Coinbase Wallet #1,Sifchain,EROWAN,,,Deposit,1000,,0.235563,,,,"8/4/2021, 9:41:48 PM",Received from 0xecd0e78f62dd5c7b441e6acfee843d357ac126f5
+Coinbase Wallet #1,WETH,WETH,,USD,Fill,1.2999999999999998,2934.42,2934.42,,,,"8/4/2021, 9:41:48 PM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Coinbase Wallet #1,AKSWAP.IO,AKSWAP.IO,,USD,Fill,250000,,,,,,"8/4/2021, 9:41:48 PM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Coinbase Pro,Cardano,ADA,Coinbase Pro,,Withdraw,5575.380021,,0.5131627,,,,"5/20/2022, 8:28:03 PM",
+Coinbase Pro,Cardano,ADA,Coinbase Pro,,Withdraw,50.180021,,0.5131627,,,,"5/20/2022, 8:07:02 PM",
+Coinbase Pro,Cardano,ADA,Coinbase Pro,USD,Buy,5659.609999999999,0.5049555612489199,0.5049555612489199,,17.147109264,FiatCoinUSD,"5/12/2022, 5:21:19 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,ADA,Sell,2857.851543999999,1.9803722876656187,1,,,,"5/12/2022, 5:21:19 PM",
+Coinbase Pro,Algorand,ALGO,Coinbase Pro,USD,Sell,7320.8,0.8567038579253634,0.8567038579253634,,31.67554345,FiatCoinUSD,"2/21/2022, 3:24:44 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,ALGO,Buy,6271.757603100001,1.1672644995689054,1,,,,"2/21/2022, 3:24:44 PM",
+Coinbase Pro,Ethereum,ETH,Coinbase Pro,,Withdraw,1.02728585,,2419.71,,,,"1/28/2022, 12:37:42 AM",
+Coinbase Pro,Ethereum,ETH,Coinbase Pro,USD,Buy,1.02728585,2421.4897711512335,2421.4897711512335,,12.437810889117,FiatCoinUSD,"1/28/2022, 12:37:15 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,ETH,Sell,2487.5621778234004,0.00041296891356455175,1,,,,"1/28/2022, 12:37:15 AM",
+Coinbase Pro,Ethereum,ETH,Coinbase Pro,,Withdraw,1.56402337,,2421.63,,,,"1/28/2022, 12:35:25 AM",
+Coinbase Pro,Ethereum,ETH,Coinbase Pro,USD,Buy,1.56402337,2417.543493187445,2417.543493187445,,18.905472606683002,FiatCoinUSD,"1/28/2022, 12:34:51 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,ETH,Sell,3781.0945213366,0.00041364302351455754,1,,,,"1/28/2022, 12:34:51 AM",
+Coinbase Pro,USD Coin,USDC,Coinbase Pro,,Deposit,1000,,0.999204,,,,"1/7/2022, 7:30:49 AM",
+Coinbase Pro,USD Coin,USDC,Coinbase Pro,,Deposit,10000,,0.999204,,,,"1/7/2022, 7:28:19 AM",
+Coinbase Pro,USD Coin,USDC,Coinbase Pro,,Withdraw,14182.91,,1,,,,"12/27/2021, 5:49:30 PM",
+Coinbase Pro,USD Coin,USDC,Coinbase Pro,,Withdraw,1500,,1,,,,"12/27/2021, 5:46:05 PM",
+Coinbase Pro,Celo,CELO,Coinbase Pro,,Withdraw,2.7401,,3.6134547072000003,,,,"12/7/2021, 10:50:59 PM",
+Coinbase Pro,Celo,CELO,Coinbase Pro,USD,Buy,2.74,3.6358649635036495,3.6358649635036495,,0.034867945,FiatCoinUSD,"12/7/2021, 10:34:21 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,CGLD,Sell,9.96227,0.27503771730740084,1,,,,"12/7/2021, 10:34:21 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,SOL,Sell,1992.948025,0.005266068090260406,1,,,,"12/5/2021, 9:27:41 PM",
+Coinbase Pro,Solana,SOL,Coinbase Pro,USD,Buy,10.495,189.895,189.895,,6.9753180875,FiatCoinUSD,"12/5/2021, 9:27:41 PM",
+Coinbase Pro,Solana,SOL,Coinbase Pro,USD,Buy,42.011,189.7620040703625,189.7620040703625,,27.902320435500002,FiatCoinUSD,"12/5/2021, 6:18:10 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,SOL,Sell,7972.091553,0.005269758848189685,1,,,,"12/5/2021, 6:18:10 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,SOL,Buy,9954.252,0.004208754208754209,1,,,,"12/2/2021, 9:05:57 PM",
+Coinbase Pro,Solana,SOL,Coinbase Pro,USD,Sell,41.895,237.6,237.6,,50.273999999999994,FiatCoinUSD,"12/2/2021, 9:05:57 PM",
+Coinbase Pro,Algorand,ALGO,Coinbase Pro,,Deposit,7320.863569,,1.9676581971000002,,,,"12/1/2021, 4:59:07 PM",
+Coinbase Pro,Ethereum,ETH,Coinbase Pro,,Withdraw,1.10409401,,4499.81,,,,"11/25/2021, 7:18:47 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,ETH,Sell,4975.1243517926005,0.00022192289718390277,1,,,,"11/25/2021, 7:18:09 PM",
+Coinbase Pro,Ethereum,ETH,Coinbase Pro,USD,Buy,1.10409401,4506.069507425912,4506.069507425912,,24.875621758963,FiatCoinUSD,"11/25/2021, 7:18:09 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,,Withdraw,8000,,1,,,,"11/25/2021, 7:13:45 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,,Deposit,20000,,1,,,,"11/25/2021, 7:13:20 PM",
+Coinbase Pro,Celo,CELO,Coinbase Pro,,Withdraw,0.8301,,5.8112716964,,,,"10/15/2021, 12:35:55 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,CGLD,Sell,4.934916,0.17021566324533183,1,,,,"10/15/2021, 12:34:44 AM",
+Coinbase Pro,Celo,CELO,Coinbase Pro,USD,Buy,0.84,5.8749,5.8749,,0.017272206,FiatCoinUSD,"10/15/2021, 12:34:44 AM",
+Coinbase Pro,Polygon,MATIC,Coinbase Pro,,Withdraw,121.80750587,,1.2294101106000002,,,,"10/11/2021, 9:12:58 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,MATIC,Sell,149.41283,0.8158603247124092,1,,,,"10/11/2021, 9:10:55 PM",
+Coinbase Pro,Polygon,MATIC,Coinbase Pro,USD,Buy,121.9,1.2257,1.2257,,0.522944905,FiatCoinUSD,"10/11/2021, 9:10:55 PM",
+Coinbase Pro,Solana,SOL,Coinbase Pro,,Deposit,359.805275,,140.83182520499997,,,,"9/30/2021, 11:51:57 PM",
+Coinbase Pro,Solana,SOL,Coinbase Pro,,Deposit,9.99,,140.83182520499997,,,,"9/30/2021, 11:45:37 PM",
+Coinbase Pro,Algorand,ALGO,Coinbase Pro,,Withdraw,3719,,1.9925942600000002,,,,"9/18/2021, 7:14:18 AM",
+Coinbase Pro,Algorand,ALGO,Coinbase Pro,USD,Buy,3719,2.0094480505512236,2.0094480505512236,,26.15598055,FiatCoinUSD,"9/18/2021, 7:13:41 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,ALGO,Sell,7473.1373,0.497649093105783,1,,,,"9/18/2021, 7:13:41 AM",
+Coinbase Pro,Algorand,ALGO,Coinbase Pro,,Withdraw,3544,,1.9121617097,,,,"9/17/2021, 11:33:16 PM",
+Coinbase Pro,Stellar,XLM,Coinbase Pro,,Withdraw,15736,,0.317651085,,,,"9/17/2021, 9:08:56 PM",
+Coinbase Pro,Stellar,XLM,Coinbase Pro,USD,Buy,15736,0.31661987112353834,0.31661987112353834,,17.438156022,FiatCoinUSD,"9/17/2021, 9:07:57 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,XLM,Sell,4982.330292,3.1583614649688907,1,,,,"9/17/2021, 9:07:57 PM",
+Coinbase Pro,Stellar,XLM,Coinbase Pro,,Withdraw,849,,0.317651085,,,,"9/17/2021, 9:04:06 PM",
+Coinbase Pro,Algorand,ALGO,Coinbase Pro,USD,Buy,3544,2.1085774548532727,2.1085774548532727,,26.15479475,FiatCoinUSD,"9/17/2021, 1:47:58 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,ALGO,Sell,7472.798499999999,0.47425338713468596,1,,,,"9/17/2021, 1:47:58 AM",
+Coinbase Pro,Ethereum,ETH,Coinbase Pro,USD,Sell,4,3263.6148238130336,3263.6148238130336,,65.93161260228351,FiatCoinUSD,"9/11/2021, 4:14:37 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,ETH,Buy,13054.459295252134,0.00030640870751765165,1,,,,"9/11/2021, 4:14:37 PM",
+Coinbase Pro,Ethereum,ETH,Coinbase Pro,,Deposit,4,,3311.81,,,,"9/11/2021, 4:13:27 PM",
+Coinbase Pro,Polkadot,DOT,Coinbase Pro,USD,Sell,345.045,17.167932838847108,17.167932838847108,,20.879136810000002,FiatCoinUSD,"8/4/2021, 10:05:04 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,DOT,Buy,5923.70938638,0.05824813094196341,1,,,,"8/4/2021, 10:05:04 AM",
+Coinbase Pro,Polkadot,DOT,Coinbase Pro,USD,Buy,345.045,17.61968840875828,17.61968840875828,,30.397926935,FiatCoinUSD,"8/4/2021, 5:25:09 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,DOT,Sell,6079.585387,0.0567546926370688,1,,,,"8/4/2021, 5:25:09 AM",
+Coinbase Pro,Solana,SOL,Coinbase Pro,,Withdraw,253.377,,27.813412992,,,,"7/22/2021, 10:16:05 PM",
+Coinbase Pro,Solana,SOL,Coinbase Pro,USD,Buy,253.377,27.489288869944783,27.489288869944783,,34.825767729999995,FiatCoinUSD,"7/22/2021, 10:05:58 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,SOL,Sell,6965.153546,0.036377805360157674,1,,,,"7/22/2021, 10:05:58 PM",
+Coinbase Pro,Stellar,XLM,Coinbase Pro,USD,Buy,849,0.23465536749116603,0.23465536749116603,,0.6972784245,FiatCoinUSD,"7/17/2021, 9:41:47 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,XLM,Sell,199.22240699999995,4.261568830457912,1,,,,"7/17/2021, 9:41:47 PM",
+Coinbase Pro,Polygon,MATIC,Coinbase Pro,USD,Sell,7252,1.1654109084390514,1.1654109084390514,,42.684646,FiatCoinUSD,"6/23/2021, 4:35:13 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,MATIC,Buy,8451.559908000001,0.8580664491457332,1,,,,"6/23/2021, 4:35:13 AM",
+Coinbase Pro,Polygon,MATIC,Coinbase Pro,USD,Buy,7252,1.3720555984555984,1.3720555984555984,,49.750736,FiatCoinUSD,"6/19/2021, 6:12:19 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,MATIC,Sell,9950.1472,0.7288334387656095,1,,,,"6/19/2021, 6:12:19 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,,Deposit,20000,,1,,,,"12/31/2020, 9:46:07 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,,Withdraw,0.69198354,,28899.99,,,,"12/30/2020, 11:36:03 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Buy,0.6919835400000001,28758.628288590648,28758.628288590648,,99.5024870434155,FiatCoinUSD,"12/30/2020, 11:04:14 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Sell,19900.4974086831,0.00003477217306629079,1,,,,"12/30/2020, 11:04:14 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,,Deposit,24591.76,,1,,,,"12/30/2020, 11:02:38 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,,Withdraw,185351.62,,1,,,,"8/23/2019, 6:15:23 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,,Withdraw,6313,,1,,,,"8/21/2019, 11:24:05 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Sell,0.9998889999999999,10021.58268,10021.58268,,20.12142627374,FiatCoinUSD,"8/21/2019, 11:22:40 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Buy,10020.470284322519,0.00009978463800889382,1,,,,"8/21/2019, 11:22:40 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,,Deposit,0.999889,,10061.08,,,,"8/21/2019, 11:22:16 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Buy,90448.20191221694,0.00009950242027734977,1,,,,"8/21/2019, 5:57:12 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Sell,8.999815000000002,10050.006795941576,10050.006795941576,,227.25678872416324,FiatCoinUSD,"8/21/2019, 5:57:12 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Buy,10074.694969999999,0.00009925858827267305,1,,,,"8/21/2019, 5:56:35 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Sell,1,10074.694969999999,10074.694969999999,,15.157515,FiatCoinUSD,"8/21/2019, 5:56:35 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,,Deposit,9.999815,,10108.61,,,,"8/21/2019, 5:54:18 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Sell,6.99993,10038.467767826272,10038.467767826272,,176.554200206131,FiatCoinUSD,"8/21/2019, 4:46:31 PM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Buy,70268.57168204016,0.00009961679642037041,1,,,,"8/21/2019, 4:46:31 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,,Deposit,5,,10110.56,,,,"8/21/2019, 4:45:36 PM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,,Deposit,1.99993,,10154.49,,,,"8/21/2019, 8:44:50 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,,Withdraw,4744,,1,,,,"8/21/2019, 8:14:16 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Buy,15119.6020827865,0.00009919639364765541,1,,,,"8/21/2019, 8:13:26 AM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Sell,1.49981,10081.011649999999,10081.011649999999,,37.98894995675,FiatCoinUSD,"8/21/2019, 8:13:26 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,,Withdraw,5259.12,,1,,,,"8/21/2019, 8:13:10 AM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Sell,0.5,10086.633399999999,10086.633399999999,,12.67165,FiatCoinUSD,"8/21/2019, 8:11:38 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Buy,5043.316699999999,0.00009914110688309541,1,,,,"8/21/2019, 8:11:38 AM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,,Deposit,1.99981,,10119.44,,,,"8/21/2019, 8:09:26 AM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Sell,0.015,10136.01525,10136.01525,,0.382010625,FiatCoinUSD,"8/21/2019, 7:04:30 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Buy,152.04022875,0.00009865809939463143,1,,,,"8/21/2019, 7:04:30 AM",
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,USD,Sell,0.005,10116.69235,10116.69235,,0.127094125,FiatCoinUSD,"8/21/2019, 7:02:04 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,BTC,Buy,50.58346175,0.00009884653653622274,1,,,,"8/21/2019, 7:02:04 AM",
+Coinbase Pro,USD,USD,Coinbase Pro,USD,Fill,3279.5008524538443,1,1,,,,"8/21/2019, 7:00:31 AM","This is a fake transaction created to fill your balance, because Coinbase Pro API does not send all your transactions"
+Coinbase Pro,Bitcoin,BTC,Coinbase Pro,,Deposit,0.02,,10160.01,,,,"8/21/2019, 7:00:31 AM",
+Coinbase Pro,USD Coin,USDC,Coinbase Pro,USD,Fill,4682.91,0.999856,0.999856,,,,"8/21/2019, 7:00:31 AM","This is a fake transaction created to fill your balance, because GDAX API does not send all your transactions"
+Metamask AVAX,JLP,JLP,,USD,Fill,0.000288676694617596,,,,,,"5/3/2022, 7:53:29 PM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Metamask AVAX,Avalanche,AVAX,,USD,Fill,1.938088026796071,61.8,61.8,,,,"1/23/2022, 1:51:50 AM",
+Metamask AVAX,Magic Internet Money,MIM,,USD,Fill,0.17598582568003235,1,1,,,,"1/7/2022, 6:02:58 PM",
+Metamask AVAX,GalaxyGoggle DAO,GG,,USD,Fill,36.537069316,0.00366643,0.00366643,,,,"1/7/2022, 6:02:58 PM",
+Metamask BSC,Binance USD,BUSD,,,Deposit,15.842473248,,0.999115,,,,"4/18/2022, 11:51:41 PM",Received 15.8425 BUSD
+Metamask BSC,ABOYS,ABOYS,,,Deposit,18000000,,,,,,"2/1/2022, 11:36:36 PM",Received 18000000 ABOYS
+Metamask BSC,GalaxyGoggle,GG,,,Deposit,0.365370693,,303.01,,,,"12/31/2021, 5:01:40 AM",Received 0.3654 GG
+Metamask BSC,AGMC.io,AGMC.io,,,Deposit,799999.9999999999,,,,,,"11/11/2021, 8:20:11 AM",Received 800000 AGMC.io
+Metamask BSC,Zepe.io,Zepe.io,,,Deposit,750000,,,,,,"9/13/2021, 8:32:31 PM",Received 750000 Zepe.io
+Metamask BSC,DogeBNB.org,DOGEBNB,,,Deposit,10000000,,9.41e-10,,,,"9/13/2021, 8:30:25 PM",Received 10000000 DogeBNB
+Metamask BSC,EVER,EVER,,,Deposit,799999.9999999999,,,,,,"8/13/2021, 5:07:13 PM",Received 800000 EVER
+Metamask BSC,FLUX,FLUX,,,Deposit,950000,,,,,,"8/2/2021, 7:13:31 PM",Received 950000 FLUX
+Metamask BSC,AirNFT,AIRT,,,Deposit,3,,0.00915822,,,,"6/20/2021, 11:05:17 AM",Received 3 AIRT
+Metamask BSC,BNB,BNB,,USD,Fill,0.32959499999999997,396.13322458793647,396.13322458793647,,,,"6/19/2021, 1:58:54 AM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Metamask BSC,BNB,BNB,,,Withdraw,0.06,,336.32190992,,0.00063903,binance-coin,"6/19/2021, 1:58:54 AM",Smart Contract Executed
+Metamask ETH,WETH,WETH,,,Withdraw,0.4,,4147.44,,0.003188277864374034,ethereum,"12/12/2021, 9:14:32 PM",Sent to 0xe78388b4ce79068e89bf8aa7f218ef6b9ab0e9d0
+Metamask ETH,WETH,WETH,,,Deposit,0.5,,4147.44,,,,"12/12/2021, 9:11:05 PM",Received from 0xc43229a7492d0ca5b1e243f90d5990c6f9f7362a
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.02,,3608.51656837,,0.003412137862786726,ethereum,"9/16/2021, 12:19:16 AM",Sent to 0xa0c68c638235ee32657e8f720a23cec1bfc77c77
+Metamask ETH,Ethereum,ETH,,,Deposit,0.0355,,3885.37231946,,,,"9/5/2021, 3:42:10 AM",Received from 0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0
+Metamask ETH,Sifchain,EROWAN,,,Withdraw,29687.80749089094,,0.232738,,0.001168206,ethereum,"8/5/2021, 11:57:12 PM",Sent to 0x81aced167afc56155c0d689d6e87210ff0101e04
+Metamask ETH,Ethereum,ETH,,,Deposit,0.0465,,2726.98166155,,,,"8/5/2021, 3:45:31 AM",Received from 0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0
+Metamask ETH,Sifchain,EROWAN,,,Withdraw,1000,,0.235563,,0.00233181,ethereum,"8/4/2021, 9:41:48 PM",Sent to 0x81aced167afc56155c0d689d6e87210ff0101e04
+Metamask ETH,Sifchain,EROWAN,,,Deposit,12562.910580416075,,0.212855,,,,"7/31/2021, 5:04:42 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Ethereum,ETH,,,Withdraw,1.15,,2463.79891691,,0.01007045,ethereum,"7/31/2021, 5:04:42 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Metamask ETH,Sifchain,EROWAN,,,Deposit,9030.993236994145,,0.212855,,,,"7/31/2021, 5:00:44 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.8,,2463.79891691,,0.010675419,ethereum,"7/31/2021, 5:00:44 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Metamask ETH,Sifchain,EROWAN,,,Deposit,9093.903673480721,,0.212855,,,,"7/31/2021, 5:00:03 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.8,,2463.79891691,,0.011966552,ethereum,"7/31/2021, 5:00:03 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Metamask ETH,Sifchain,EROWAN,,,Withdraw,5000,,0.212855,,0.006275237,ethereum,"7/31/2021, 1:27:20 AM",Sent to 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Sifchain,EROWAN,,,Withdraw,5490.203058695197,,0.212855,,0.006654243,ethereum,"7/31/2021, 1:26:28 AM",Sent to 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Sifchain,EROWAN,,,Withdraw,7000,,0.212855,,0.00669993,ethereum,"7/31/2021, 1:26:03 AM",Sent to 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Sifchain,EROWAN,,,Withdraw,7000,,0.212855,,0.00667161,ethereum,"7/31/2021, 1:24:53 AM",Sent to 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Sifchain,EROWAN,,,Withdraw,10000,,0.212855,,0.00714832,ethereum,"7/31/2021, 1:22:38 AM",Sent to 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Sifchain,EROWAN,,,Deposit,11164.195232893224,,0.126309,,,,"7/22/2021, 11:05:14 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.7654696535930469,,1992.90587014,,0.0038365,ethereum,"7/22/2021, 11:05:14 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Metamask ETH,Sifchain,EROWAN,,,Deposit,7263.691694327408,,0.126309,,,,"7/22/2021, 11:03:20 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.5,,1992.90587014,,0.0037795032,ethereum,"7/22/2021, 11:03:20 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Metamask ETH,Sifchain,EROWAN,,,Deposit,7181.241279587282,,0.126309,,,,"7/22/2021, 10:54:26 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.5,,1992.90587014,,0.0038168262,ethereum,"7/22/2021, 10:54:26 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Metamask ETH,Sifchain,EROWAN,,,Deposit,7384.3080453756265,,0.126309,,,,"7/22/2021, 10:52:59 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.5,,1992.90587014,,0.003796835568942745,ethereum,"7/22/2021, 10:52:59 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Metamask ETH,Ethereum,ETH,,,Deposit,2.3926,,1992.90587014,,,,"7/22/2021, 10:44:23 PM",Received from 0xf60c2ea62edbfe808163751dd0d8693dcb30019c
+Metamask ETH,Sifchain,EROWAN,,,Deposit,1496.766806511656,,0.126309,,,,"7/22/2021, 10:39:49 PM",Received from 0xb8c05b7ca698f7cfd9b8a08f177e0ac5f2696bf9
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.1,,1992.90587014,,0.003778992,ethereum,"7/22/2021, 10:39:49 PM",Sent to 0xe592427a0aece92de3edee1f18e0157c05861564
+Metamask ETH,Ethereum,ETH,,,Deposit,0.0949,,1992.90587014,,,,"7/22/2021, 10:23:03 PM",Received from 0xf60c2ea62edbfe808163751dd0d8693dcb30019c
+Metamask ETH,USD Coin,USDC,,,Withdraw,97.5,,1,,0.001014266,ethereum,"6/23/2021, 10:55:17 PM",Sent to 0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf
+Metamask ETH,USD Coin,USDC,,,Deposit,97.5,,1,,,,"6/23/2021, 10:46:44 PM",Received from 0xae2d4617c862309a3d75a0ffb358c7a5009c673f
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.0006,,181.75180248,,0.000489828,ethereum,"10/29/2019, 4:00:46 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,179.93699089,,0.000244914,ethereum,"10/8/2019, 2:31:13 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.00011,,179.93699089,,0.001418688,ethereum,"10/8/2019, 2:31:13 PM",Sent to 0xe50e872b9a111ec675adc5cc99107656cfe7b437
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.005456,,174.74281175,,0.0007293045,ethereum,"10/4/2019, 12:44:29 AM",Sent to 0xe50e872b9a111ec675adc5cc99107656cfe7b437
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.00022,,174.74281175,,0.002076147,ethereum,"10/4/2019, 12:42:02 AM",Sent to 0xe50e872b9a111ec675adc5cc99107656cfe7b437
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.00022,,180.42367014,,0.001384098,ethereum,"10/3/2019, 12:02:09 AM",Sent to 0xe50e872b9a111ec675adc5cc99107656cfe7b437
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000165,,180.13,,0.0114750405,ethereum,"9/11/2019, 10:11:55 PM",Sent to 0xe50e872b9a111ec675adc5cc99107656cfe7b437
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,170.76900233,,0.00326552,ethereum,"9/2/2019, 3:36:02 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,168.79253256,,0.0002612416,ethereum,"8/30/2019, 11:37:52 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,168.79253256,,0.000244914,ethereum,"8/30/2019, 11:35:47 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,168.79253256,,0.000244914,ethereum,"8/30/2019, 10:37:49 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,168.79253256,,0.000244914,ethereum,"8/30/2019, 10:36:31 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,168.79253256,,0.000244914,ethereum,"8/30/2019, 10:34:57 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,168.79253256,,0.000244914,ethereum,"8/30/2019, 10:10:03 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.00081638,ethereum,"8/23/2019, 3:57:39 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.00081638,ethereum,"8/23/2019, 3:57:11 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.00081638,ethereum,"8/23/2019, 3:57:11 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.00163276,ethereum,"8/23/2019, 3:55:13 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.00163276,ethereum,"8/23/2019, 3:55:13 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.00163276,ethereum,"8/23/2019, 3:54:54 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.00163276,ethereum,"8/23/2019, 3:54:54 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.001959312,ethereum,"8/23/2019, 3:53:10 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.000055,,190.7323318,,0.001959312,ethereum,"8/23/2019, 3:53:04 AM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.003,,201.00959671,,0.001554838,ethereum,"8/20/2019, 7:03:58 PM",Sent to 0x8a8ec4cedf933dc983724c235fd4f4754ffbe6fc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.00081,,307.97,,0.000178276,ethereum,"6/24/2019, 11:32:26 PM",Sent to 0x18ddd7fedc4b1a5a414cded8e5be6c40408a95dc
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.0021,,307.97,,0.000178276,ethereum,"6/24/2019, 11:18:37 PM",Sent to 0xc464cb5158da6d1295e791dc8b7057f490588044
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.049593,,256.24,,0.00021,ethereum,"5/22/2019, 8:22:32 PM",Sent to 0xcf0871df53387a08c26efbe0e7d022784663740d
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.089347,,172.56,,0.00023179,ethereum,"5/7/2019, 12:42:44 AM",Sent to 0x2a7dd699f78ab8766691b22f63d986e0c5dbe18d
+Metamask ETH,CC COINSLOT.COM,CC COINSLOT.COM,,,Deposit,1000,,,,,,"3/30/2019, 2:39:05 PM",Received from 0x6c7dfe3c255a098ea031f334436dd50345cfc737
+Metamask ETH,CC COINSLOT.COM,CC COINSLOT.COM,,USD,Fill,1000,,,,,,"3/30/2019, 2:39:05 PM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.012,,139.18555434,,0.00084785,ethereum,"1/2/2019, 3:26:57 AM",Sent to 0x0777f76d195795268388789343068e4fcd286919
+Metamask ETH,Ethereum,ETH,,,Deposit,0.2145999,,139.18555434,,,,"1/2/2019, 3:24:48 AM",Received from 0x6273833f07e85f8a47ec6a91f275e26c3d4230be
+Metamask ETH,CANDY,CANDY,,,Deposit,25,,,,,,"3/31/2018, 8:51:49 PM",Received from 0x5a8aad505a44165813ecdfa213d0615293e33671
+Metamask ETH,CANDY,CANDY,,USD,Fill,25,,,,,,"3/31/2018, 8:51:49 PM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Metamask ETH,Ethereum,ETH,,,Withdraw,0.003072169401851852,,1016.44,,0.00121016,ethereum,"1/18/2018, 12:44:23 AM",Sent to 0xb1690c08e213a35ed9bab7b318de14420fb57d8c
+Metamask ETH,Ethereum,ETH,,,Deposit,0.03014,,1016.44,,,,"1/18/2018, 12:43:55 AM",Received from 0x73c2bacb106fac97bb2553210b6c5c62afe8e918
+Metamask ETH,Ethereum,ETH,,USD,Fill,2.735963209448596,2933.386642983351,2933.386642983351,,,,"1/14/2018, 10:49:12 AM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Metamask ETH,Ethereum,ETH,,,Deposit,0.00742,,1397.48,,,,"1/14/2018, 10:49:12 AM",Received from 0xd7345414258313d999c488dde67f177637b1f1c2
+Metamask ETH,CC COINSLOT.COM,CC COINSLOT.COM,,USD,Fill,1000,,,,,,"1/14/2018, 10:49:12 AM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Metamask ETH,CANDY,CANDY,,USD,Fill,25,,,,,,"1/14/2018, 10:49:12 AM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Kraken,USD,USD,Kraken,ALGO,Sell,668.734258,0.5233768059778389,1,,1.743242,FiatCoinUSD,"9/17/2021, 9:11:41 PM",
+Kraken,Algorand,ALGO,Kraken,USD,Buy,350,1.9106693085714284,1.9106693085714284,,,,"9/17/2021, 9:11:41 PM",
+Kraken,Stellar,XLM,Kraken,USD,Sell,16870.97796,0.3163888230430716,0.3163888230430716,,,,"9/17/2021, 9:10:58 PM",
+Kraken,USD,USD,Kraken,XLM,Buy,5337.7888603500005,3.1606679097632506,1,,13.91442855,FiatCoinUSD,"9/17/2021, 9:10:58 PM",
+Kraken,Solana,SOL,Kraken,USD,Buy,2,198.12353499999998,198.12353499999998,,,,"9/9/2021, 3:16:24 PM",
+Kraken,USD,USD,Kraken,SOL,Sell,396.24706999999995,0.005047355933761227,1,,1.03293,FiatCoinUSD,"9/9/2021, 3:16:24 PM",
+Kraken,USD,USD,Kraken,ETH,Sell,149.80084,0.0002603456696237485,1,,0.3905,FiatCoinUSD,"9/5/2021, 3:39:02 AM",
+Kraken,Ethereum,ETH,Kraken,USD,Buy,0.039,3841.047179487179,3841.047179487179,,,,"9/5/2021, 3:39:02 AM",
+Kraken,USD Coin,USDC,Kraken,ETH,Sell,135.25043200000002,0.00036968458629396466,0.999997,,0.352568,usd-coin,"8/5/2021, 3:40:17 AM",
+Kraken,Ethereum,ETH,Kraken,USDC,Buy,0.05,2705.00864,2726.98166155,,,,"8/5/2021, 3:40:17 AM",
+Kraken,USD Coin,USDC,Kraken,USD,Buy,207.5,0.998,0.998,,,,"8/2/2021, 11:01:10 PM",
+Kraken,USD,USD,Kraken,USDC,Sell,207.085,1.002004008016032,1,,0.415,FiatCoinUSD,"8/2/2021, 11:01:10 PM",
+Kraken,Stellar,XLM,Kraken,USD,Buy,100,0.229741116,0.229741116,,,,"7/18/2021, 3:49:43 PM",
+Kraken,USD,USD,Kraken,XLM,Sell,22.9741116,4.3527254390111,1,,0.0598884,FiatCoinUSD,"7/18/2021, 3:49:43 PM",
+Kraken,USD,USD,Kraken,XLM,Sell,4985.50957475,4.304474733874344,1,,12.99611479,FiatCoinUSD,"7/17/2021, 10:20:47 PM",
+Kraken,Stellar,XLM,Kraken,USD,Buy,21460,0.23231638279356942,0.23231638279356942,,,,"7/17/2021, 10:20:47 PM",
+Kraken,USD,USD,Kraken,XLM,Sell,234.70873064,4.260599924311363,1,,0.61183346,FiatCoinUSD,"7/17/2021, 9:46:19 PM",
+Kraken,Stellar,XLM,Kraken,USD,Buy,1000,0.23470873064,0.23470873064,,,,"7/17/2021, 9:46:19 PM",
+Kraken,USD,USD,Kraken,NANO,Sell,6966.402703,0.23354951893598563,1,,18.159862,FiatCoinUSD,"6/26/2021, 2:01:44 PM",
+Kraken,Nano,XNO,Kraken,USD,Buy,1627,4.281747205285802,4.281747205285802,,,,"6/26/2021, 2:01:44 PM",
+Kraken,USD Coin,USDC,Kraken,USD,Buy,200,0.998,0.998,,,,"6/23/2021, 10:36:34 PM",
+Kraken,USD,USD,Kraken,USDC,Sell,199.6,1.002004008016032,1,,0.4,FiatCoinUSD,"6/23/2021, 10:36:34 PM",
+Kraken,Ethereum,ETH,Kraken,USD,Buy,0.05,2101.5915999999997,2101.5915999999997,,,,"6/21/2021, 5:35:11 AM",
+Kraken,USD,USD,Kraken,ETH,Sell,105.07957999999999,0.00047582984248699893,1,,0.27392,FiatCoinUSD,"6/21/2021, 5:35:11 AM",
+Kraken,USD,USD,Kraken,USDC,Sell,99.80998000000001,1.0019038176342685,1,,0.20002,FiatCoinUSD,"6/19/2021, 4:59:41 PM",
+Kraken,USD Coin,USDC,Kraken,USD,Buy,100,0.9980998000000001,0.9980998000000001,,,,"6/19/2021, 4:59:41 PM",
+Kraken,Stellar,XLM,Kraken,USD,Buy,13000,0.3787778697023077,0.3787778697023077,,,,"6/6/2021, 6:27:21 PM",
+Kraken,USD,USD,Kraken,XLM,Sell,4924.11230613,2.6400697611661643,1,,12.83606577,FiatCoinUSD,"6/6/2021, 6:27:21 PM",
+Kraken,USD,USD,Kraken,XLM,Sell,37.977700580000004,2.6331241352896035,1,,0.09899942,FiatCoinUSD,"6/6/2021, 6:15:24 PM",
+Kraken,Stellar,XLM,Kraken,USD,Buy,100,0.37977700580000007,0.37977700580000007,,,,"6/6/2021, 6:15:24 PM",
+Kraken,USD,USD,Kraken,NANO,Sell,5008.0116339999995,0.13178883122378945,1,,13.054772,FiatCoinUSD,"6/6/2021, 5:40:16 PM",
+Kraken,Nano,XNO,Kraken,USD,Buy,660,7.587896415151515,7.587896415151515,,,,"6/6/2021, 5:40:16 PM",
+Kraken,Tether,USDT,Kraken,USD,Sell,9000,0.9981996000011111,0.9981996000011111,,,,"6/6/2021, 5:36:32 PM",
+Kraken,USD,USD,Kraken,USDT,Buy,8983.79640001,1.0018036472854597,1,,18.00359999,FiatCoinUSD,"6/6/2021, 5:36:32 PM",
+Kraken,USD,USD,Kraken,USDT,Sell,8984.6946,1.0017034969669418,1,,18.0054,FiatCoinUSD,"6/6/2021, 5:31:36 PM",
+Kraken,Tether,USDT,Kraken,USD,Buy,9000,0.9982994000000001,0.9982994000000001,,,,"6/6/2021, 5:31:36 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Sell,0.99999998,30.262620605252412,30.262620605252412,,,,"3/24/2021, 11:37:40 PM",
+Kraken,USD,USD,Kraken,DOT,Buy,30.26262,0.03304406492233653,1,,0.07888,FiatCoinUSD,"3/24/2021, 11:37:40 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Buy,0.99999998,30.178430603568614,30.178430603568614,,,,"3/24/2021, 11:37:18 PM",
+Kraken,USD,USD,Kraken,DOT,Sell,30.178430000000002,0.033136249301239325,1,,0.07867,FiatCoinUSD,"3/24/2021, 11:37:18 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Sell,370,30.096840243243243,30.096840243243243,,,,"3/24/2021, 11:34:09 PM",
+Kraken,USD,USD,Kraken,DOT,Buy,11135.83089,0.0332260792800168,1,,29.02864,FiatCoinUSD,"3/24/2021, 11:34:09 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Sell,369,34.668337398373986,34.668337398373986,,,,"3/24/2021, 6:15:14 PM",
+Kraken,USD,USD,Kraken,DOT,Buy,12792.6165,0.028844763696308725,1,,33.3475,FiatCoinUSD,"3/24/2021, 6:15:14 PM",
+Kraken,USD,USD,Kraken,DOT,Sell,19970.90195,0.03700383697492441,1,,52.0597,FiatCoinUSD,"2/14/2021, 6:45:59 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Buy,739,27.02422456021651,27.02422456021651,,,,"2/14/2021, 6:45:59 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Sell,0.99999998,28.324950566499012,28.324950566499012,,,,"2/14/2021, 6:39:38 AM",
+Kraken,USD,USD,Kraken,DOT,Buy,28.32495,0.03530456293832822,1,,0.07384,FiatCoinUSD,"2/14/2021, 6:39:38 AM",
+Kraken,USD,USD,Kraken,DOT,Sell,28.33344,0.035293984422646876,1,,0.07386,FiatCoinUSD,"2/14/2021, 6:39:16 AM",
+Kraken,Polkadot,DOT,Kraken,USD,Buy,0.99999999,28.333440283334404,28.333440283334404,,,,"2/14/2021, 6:39:16 AM",
+Kraken,Polkadot,DOT,Kraken,USD,Sell,688.00000001,28.250419040287056,28.250419040287056,,,,"2/14/2021, 6:38:15 AM",
+Kraken,USD,USD,Kraken,DOT,Buy,19436.2883,0.03539770502426639,1,,50.6661,FiatCoinUSD,"2/14/2021, 6:38:15 AM",
+Kraken,Polkadot,DOT,Kraken,USD,Buy,688,29.002855130813952,29.002855130813952,,,,"2/13/2021, 5:35:14 AM",
+Kraken,USD,USD,Kraken,DOT,Sell,19953.96433,0.034479364031217555,1,,52.01555,FiatCoinUSD,"2/13/2021, 5:35:14 AM",
+Kraken,Polkadot,DOT,Kraken,USD,Sell,435,9.846312,9.846312,,,,"1/5/2021, 5:45:08 PM",
+Kraken,USD,USD,Kraken,DOT,Buy,4283.1457199999995,0.10156086867854686,1,,10.30428,FiatCoinUSD,"1/5/2021, 5:45:08 PM",
+Kraken,Kusama,KSM,Kraken,USD,Sell,18.99999993,69.42021078207445,69.42021078207445,,,,"1/5/2021, 5:44:25 PM",
+Kraken,USD,USD,Kraken,KSM,Buy,1318.984,0.014405026846421188,1,,3.17319,FiatCoinUSD,"1/5/2021, 5:44:25 PM",
+Kraken,USD,USD,Kraken,KSM,Sell,1267.67027,0.014988124632756434,1,,3.04973,FiatCoinUSD,"1/2/2021, 12:31:11 PM",
+Kraken,Kusama,KSM,Kraken,USD,Buy,19,66.71948789473684,66.71948789473684,,,,"1/2/2021, 12:31:11 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Buy,435,8.554339218390805,8.554339218390805,,,,"1/2/2021, 12:30:14 PM",
+Kraken,USD,USD,Kraken,DOT,Sell,3721.13756,0.11689973643436068,1,,8.95221,FiatCoinUSD,"1/2/2021, 12:30:14 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Sell,1898.99999998,8.340830294979893,8.340830294979893,,,,"1/2/2021, 7:48:11 AM",
+Kraken,USD,USD,Kraken,DOT,Buy,15839.23673,0.11989214078625618,1,,38.10562,FiatCoinUSD,"1/2/2021, 7:48:11 AM",
+Kraken,USD,USD,Kraken,KSM,Buy,5033.2320899999995,0.0149009619780915,1,,12.10882,FiatCoinUSD,"1/2/2021, 7:47:42 AM",
+Kraken,Kusama,KSM,Kraken,USD,Sell,75,67.1097612,67.1097612,,,,"1/2/2021, 7:47:42 AM",
+Kraken,USD,USD,Kraken,KSM,Sell,5106.5854,0.014686917798339374,1,,13.31173,FiatCoinUSD,"1/1/2021, 5:40:41 PM",
+Kraken,Kusama,KSM,Kraken,USD,Buy,75,68.08780533333334,68.08780533333334,,,,"1/1/2021, 5:40:41 PM",
+Kraken,USD,USD,Kraken,DOT,Buy,5087.00774,0.12286201082131634,1,,13.2607,FiatCoinUSD,"1/1/2021, 5:39:49 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Sell,625,8.139212384,8.139212384,,,,"1/1/2021, 5:39:49 PM",
+Kraken,Polkadot,DOT,Kraken,USD,Buy,1150,8.665923591304349,8.665923591304349,,,,"12/31/2020, 10:01:48 PM",
+Kraken,USD,USD,Kraken,DOT,Sell,9965.81213,0.11539450924808874,1,,25.97864,FiatCoinUSD,"12/31/2020, 10:01:48 PM",
+Kraken,USD,USD,Kraken,DOT,Sell,9988.35263,0.1375602214796856,1,,26.03742,FiatCoinUSD,"12/31/2020, 12:59:01 AM",
+Kraken,Polkadot,DOT,Kraken,USD,Buy,1374,7.269543398835516,7.269543398835516,,,,"12/31/2020, 12:59:01 AM",
+Kraken,Bitcoin,BTC,Kraken,USD,Fill,0.6919455,46297.85519146077,46297.85519146077,,,,"12/31/2020, 12:52:54 AM",
+Kraken,Algorand,ALGO,Kraken,USD,Fill,262.15234599999997,0.8705306417602028,0.8705306417602028,,,,"12/31/2020, 12:52:54 AM",
+Kraken,USD Coin,USDC,Kraken,USD,Fill,362.852568,0.999856,0.999856,,,,"12/31/2020, 12:52:54 AM",
+Kraken,USD,USD,Kraken,USD,Fill,987.3278252800037,1,1,,,,"12/31/2020, 12:52:54 AM",
+Kraken,Bitcoin,BTC,Kraken,USD,Sell,0.69194,29074.708703066743,29074.708703066743,,,,"12/31/2020, 12:52:54 AM",
+Kraken,USD,USD,Kraken,XBT,Buy,20117.953940000003,0.00003439415370288893,1,,52.44303,FiatCoinUSD,"12/31/2020, 12:52:54 AM",
+Kraken,Ethereum,ETH,Kraken,USD,Fill,0.139,3513.5005392350245,3513.5005392350245,,,,"12/31/2020, 12:52:54 AM","This is a fake transaction created to fill your balance, because Kraken API does not send all your transactions"
+Kraken,Stellar,XLM,Kraken,USD,Fill,18789.02204,0.23096741044328126,0.23096741044328126,,,,"12/31/2020, 12:52:54 AM","This is a fake transaction created to fill your balance, because Kraken API does not send all your transactions"
+Kraken,Solana,SOL,Kraken,USD,Fill,2,129.7300914371337,129.7300914371337,,,,"12/31/2020, 12:52:54 AM","This is a fake transaction created to fill your balance, because Kraken API does not send all your transactions"
+Kraken,Nano,XNO,Kraken,USD,Fill,2287,2.8031568216244542,2.8031568216244542,,,,"12/31/2020, 12:52:54 AM","This is a fake transaction created to fill your balance, because Kraken API does not send all your transactions"
+Coinbase Wallet #2,Ethereum,ETH,,,Deposit,0.003,,2056.70467845,,,,"5/15/2022, 12:09:44 AM",Received from 0x81aced167afc56155c0d689d6e87210ff0101e04
+Coinbase Wallet #2,Ethereum,ETH,,,Deposit,0.00169896,,2056.70467845,,,,"5/15/2022, 12:02:12 AM",Received from 0x81aced167afc56155c0d689d6e87210ff0101e04
+Coinbase Wallet #2,Ethereum,ETH,,USD,Fill,0.0010197958370102723,1184.4008970255602,1184.4008970255602,,,,"5/14/2022, 11:55:24 PM","This is a fake transaction created to fill your balance, because API does not send all your transactions"
+Coinbase Wallet #2,Ethereum,ETH,,,Deposit,0.000021,,2008.35573603,,,,"5/14/2022, 11:55:24 PM",Received from 0x81aced167afc56155c0d689d6e87210ff0101e04
+BitMax,USD Coin,USDC,AscendEX,USDT,Buy,241.1,1,1,,,,"1/11/2022, 4:06:41 PM",
+BitMax,Tether,USDT,AscendEX,USDC,Sell,241.1,1,1,,0.4822,tether,"1/11/2022, 4:06:41 PM",
+BitMax,Solana,SOL,AscendEX,USDT,Sell,1,135.1106,135.1106,,,,"1/11/2022, 1:49:33 AM",
+BitMax,Tether,USDT,AscendEX,SOL,Buy,135.1106,0.007401343787978145,1,,0.2702212,tether,"1/11/2022, 1:49:33 AM",
+BitMax,Solana,SOL,AscendEX,,Deposit,1,,180.01528379,,,,"12/28/2021, 3:46:35 AM",
+BitMax,USD Coin,USDC,AscendEX,,Withdraw,1269.4,,1,,,,"12/28/2021, 1:25:54 AM",
+BitMax,Polygon,MATIC,AscendEX,,Withdraw,10,,2.6707772028,,,,"12/28/2021, 1:24:56 AM",
+BitMax,Polygon,MATIC,AscendEX,USDT,Buy,10,2.670765,2.670765,,,,"12/28/2021, 1:13:00 AM",
+BitMax,Tether,USDT,AscendEX,MATIC,Sell,26.707649999999997,0.3744245562600978,1,,0.0534153,tether,"12/28/2021, 1:13:00 AM",
+BitMax,USD Coin,USDC,AscendEX,USDT,Buy,1269.4,0.9995,0.9995000000000002,,,,"12/28/2021, 1:11:39 AM",
+BitMax,Tether,USDT,AscendEX,USDC,Sell,1268.7653000000003,1.0005002501250624,1,,2.5375306,tether,"12/28/2021, 1:11:39 AM",
+BitMax,BNB,BNB,AscendEX,USDT,Sell,2.521,557.8,557.8,,,,"12/28/2021, 1:10:23 AM",
+BitMax,Tether,USDT,AscendEX,BNB,Buy,1406.2137999999998,0.0017927572606669059,1,,1.4062138,tether,"12/28/2021, 1:10:23 AM",
+BitMax,BNB,BNB,AscendEX,,Deposit,2.5219676,,559.7725961599999,,,,"12/28/2021, 1:04:35 AM",
+BitMax,USD Coin,USDC,AscendEX,,Withdraw,56.1827,,1,,,,"12/27/2021, 6:36:53 PM",
+BitMax,BNB,BNB,AscendEX,,Deposit,0.1,,568.94707602,,,,"12/27/2021, 6:31:20 PM",
+BitMax,Solana,SOL,AscendEX,,Withdraw,115.5,,26.71703387,,,,"7/19/2021, 10:18:43 PM",
+BitMax,Stellar,XLM,AscendEX,,Withdraw,135.001,,0.24749223480000002,,,,"7/18/2021, 4:01:49 PM",
+BitMax,Stellar,XLM,AscendEX,,Deposit,25.00004,,0.24749223480000002,,,,"7/18/2021, 3:56:53 PM",
+BitMax,Stellar,XLM,AscendEX,,Withdraw,100.999,,0.24749223480000002,,,,"7/18/2021, 3:38:32 PM",
+BitMax,Stellar,XLM,AscendEX,,Deposit,12999.99998,,0.37849360032,,,,"6/6/2021, 6:30:01 PM",
+BitMax,Stellar,XLM,AscendEX,,Deposit,99.99998,,0.37849360032,,,,"6/6/2021, 6:23:16 PM",
+BitMax,Tether,USDT,AscendEX,USD,Fill,0.00042321000050075377,1.0010811166069522,1.0010811166069522,,,,"6/6/2021, 6:23:16 PM","This is a fake transaction created to fill your balance, because BitMax API does not send all your transactions"
+BitMax,BNB,BNB,AscendEX,USD,Fill,0.10000000000000007,445.38567011179504,445.38567011179504,,,,"6/6/2021, 6:23:16 PM","This is a fake transaction created to fill your balance, because BitMax API does not send all your transactions"
+BitMax,USD Coin,USDC,AscendEX,USD,Fill,184.9172999999999,0.999856,0.999856,,,,"6/6/2021, 6:23:16 PM","This is a fake transaction created to fill your balance, because BitMax API does not send all your transactions"
+BitMax,Solana,SOL,AscendEX,USD,Fill,115.5,129.741642383819,129.741642383819,,,,"6/6/2021, 6:23:16 PM","This is a fake transaction created to fill your balance, because BitMax API does not send all your transactions"
+BitMax,Stellar,XLM,AscendEX,USD,Fill,12889.000000000002,0.2309035234972381,0.2309035234972381,,,,"6/6/2021, 6:23:16 PM","This is a fake transaction created to fill your balance, because BitMax API does not send all your transactions"
+BitMax,USD,USD,AscendEX,USD,Fill,241.10009569,1,1,,,,"6/6/2021, 6:23:16 PM","This is a fake transaction created to fill your balance, because BitMax API does not send all your transactions"
+KuCoin,BNB,BNB,KuCoin,,Deposit,0.47914,,428.06424425000006,,,,"1/11/2022, 2:25:41 AM",
+KuCoin,BNB,BNB,KuCoin,,Deposit,0.0195376,,424.38374874000004,,,,"1/11/2022, 2:06:51 AM",
+KuCoin,Tether,USDT,KuCoin,USDC,Sell,858.473058,0.9999,1,,,,"1/11/2022, 12:01:10 AM",
+KuCoin,USD Coin,USDC,KuCoin,USDT,Buy,858.3872106942,1.000100010001,1.000100010001,,0.8583872106942,usd-coin,"1/11/2022, 12:01:10 AM",
+KuCoin,Tether,USDT,KuCoin,SOL,Buy,859.3323906,0.007357106597117484,1,,0.8593323906,tether,"1/11/2022, 12:00:50 AM",
+KuCoin,Solana,SOL,KuCoin,USDT,Sell,6.3222,135.92300000000003,135.92300000000003,,,,"1/11/2022, 12:00:50 AM",
+KuCoin,USD Coin,USDC,KuCoin,LINK,Buy,1732.52180099,0.03575475931362179,1,,1.73252180099,usd-coin,"1/11/2022, 12:00:25 AM",
+KuCoin,Chainlink,LINK,KuCoin,USDC,Sell,61.9459,27.96830461725473,27.982832388,,,,"1/11/2022, 12:00:25 AM",
+KuCoin,USD Coin,USDC,KuCoin,USDT,Buy,1250.8960034785,1.0001556400539762,1.0001556400539762,,1.2508960034785,usd-coin,"1/10/2022, 11:59:28 PM",
+KuCoin,Tether,USDT,KuCoin,USDC,Sell,1251.090693,0.9998443841660806,1,,,,"1/10/2022, 11:59:28 PM",
+KuCoin,BNB,BNB,KuCoin,,Withdraw,2.5219676,,559.6460563999999,,0.01,binance-coin,"12/28/2021, 1:02:55 AM",
+KuCoin,BNB,BNB,KuCoin,,Withdraw,0.1,,563.25219864,,0.01,binance-coin,"12/27/2021, 6:29:24 PM",
+KuCoin,Tether,USDT,KuCoin,BNB,Sell,1499.9999961872,0.001761311737810353,1,,1.4999999961872,tether,"12/27/2021, 6:26:51 PM",
+KuCoin,BNB,BNB,KuCoin,USDT,Buy,2.6419676,567.7586644844547,567.7586644844547,,,,"12/27/2021, 6:26:51 PM",
+KuCoin,Huobi,HT,KuCoin,USDT,Sell,148.9295,9.904090226650865,9.904090226650865,,,,"12/27/2021, 6:26:27 PM",
+KuCoin,Tether,USDT,KuCoin,HT,Buy,1475.01120541,0.10096838549684303,1,,2.95002241082,tether,"12/27/2021, 6:26:27 PM",
+KuCoin,Huobi,HT,KuCoin,,Withdraw,2,,9.93631699,,0.1,huobi-token,"12/27/2021, 6:09:53 PM",
+KuCoin,Huobi,HT,KuCoin,USDT,Buy,151.02957835,9.931829356420666,9.931829356420666,,,,"12/27/2021, 6:05:46 PM",
+KuCoin,Tether,USDT,KuCoin,HT,Sell,1499.999999944365,0.10068638557040112,1,,2.99999999988873,tether,"12/27/2021, 6:05:46 PM",
+KuCoin,Tether,USDT,KuCoin,USDC,Buy,2783.52942939,1.0007,1,,,,"12/27/2021, 6:05:33 PM",
+KuCoin,USD Coin,USDC,KuCoin,USDT,Sell,2785.477899990573,0.99930048965724,0.99930048965724,,2.785477899990573,usd-coin,"12/27/2021, 6:05:33 PM",
+KuCoin,Chainlink,LINK,KuCoin,USDC,Buy,61.94590174,24.214676962897727,24.210043014000004,,,,"12/27/2021, 6:01:58 PM",
+KuCoin,USD Coin,USDC,KuCoin,LINK,Sell,1499.999999809504,0.0412972678319113,1,,1.499999999809504,usd-coin,"12/27/2021, 6:01:58 PM",
+KuCoin,Solana,SOL,KuCoin,,Withdraw,1,,200.69318162,,0.01,solana,"12/27/2021, 5:12:46 PM",
+KuCoin,Tether,USDT,KuCoin,SOL,Sell,1492.52199877585,0.004912631007123377,1,,1.49252199877585,tether,"12/27/2021, 5:10:16 PM",
+KuCoin,Solana,SOL,KuCoin,USDT,Buy,7.33220985,203.55691248742016,203.55691248742016,,,,"12/27/2021, 5:10:16 PM",
+KuCoin,Tether,USDT,KuCoin,XLM,Buy,1495.5101079972,3.289756166602393,1,,1.4955101079972,tether,"12/27/2021, 5:09:46 PM",
+KuCoin,Stellar,XLM,KuCoin,USDT,Sell,4919.8636,0.3039738963489151,0.3039738963489151,,,,"12/27/2021, 5:09:46 PM",
+KuCoin,Stellar,XLM,KuCoin,USDT,Buy,4919.86363206,0.3043688591772603,0.3043688591772603,,,,"12/27/2021, 4:58:58 PM",
+KuCoin,Tether,USDT,KuCoin,XLM,Sell,1497.4532809977945,3.2854872298798923,1,,1.4974532809977945,tether,"12/27/2021, 4:58:58 PM",
+KuCoin,Tether,USDT,KuCoin,USDC,Buy,1498.95073448,1.0007000000000001,1,,,,"12/27/2021, 4:57:00 PM",
+KuCoin,USD Coin,USDC,KuCoin,USDT,Sell,1499.999999994136,0.9993004896572398,0.9993004896572398,,1.499999999994136,usd-coin,"12/27/2021, 4:57:00 PM",
+KuCoin,XRP,XRP,KuCoin,USDC,Sell,511,1.09144,1.0885128240000002,,,,"10/13/2021, 10:32:27 AM",
+KuCoin,USD Coin,USDC,KuCoin,XRP,Buy,557.72584,0.9162207725573555,1,,0.55772584,usd-coin,"10/13/2021, 10:32:27 AM",
+KuCoin,XRP,XRP,KuCoin,,Deposit,11,,1.0866438,,,,"10/13/2021, 10:24:21 AM",
+KuCoin,XRP,XRP,KuCoin,,Deposit,500,,1.0866438,,,,"10/13/2021, 10:10:48 AM",
+KuCoin,USD Coin,USDC,KuCoin,XRP,Buy,109.038,0.9171114657275447,1,,0.109038,usd-coin,"10/13/2021, 10:08:16 AM",
+KuCoin,XRP,XRP,KuCoin,USDC,Sell,100,1.09038,1.0866438,,,,"10/13/2021, 10:08:16 AM",
+KuCoin,XRP,XRP,KuCoin,,Deposit,100,,1.0866438,,,,"10/13/2021, 10:07:18 AM",
+KuCoin,USD Coin,USDC,KuCoin,USDT,Buy,5130.2966221296,0.9996001599360256,0.9996001599360256,,5.1302966221296,usd-coin,"9/30/2021, 11:38:07 PM",
+KuCoin,Tether,USDT,KuCoin,USDC,Sell,5128.245324,1.0004,1,,,,"9/30/2021, 11:38:07 PM",
+KuCoin,GoChain,GO,KuCoin,USDT,Sell,262915.0511,0.019524856718983383,0.019524856718983383,,,,"7/29/2021, 11:42:23 PM",
+KuCoin,Tether,USDT,KuCoin,GO,Buy,5133.3787019916945,51.21676509040563,1,,5.1333787019916945,tether,"7/29/2021, 11:42:23 PM",
+KuCoin,Stellar,XLM,KuCoin,,Deposit,21959.998,,0.23435907000000003,,,,"7/17/2021, 10:26:58 PM",
+KuCoin,USD Coin,USDC,KuCoin,USD,Fill,1.000444171950221e-9,0.999856,0.999856,,,,"7/17/2021, 9:55:56 PM","This is a fake transaction created to fill your balance, because KuCoin API does not send all your transactions"
+KuCoin,GoChain,GO,KuCoin,USD,Fill,262915.05117893,0.02817111,0.02817111,,,,"7/17/2021, 9:55:56 PM","This is a fake transaction created to fill your balance, because KuCoin API does not send all your transactions"
+KuCoin,Stellar,XLM,KuCoin,USD,Fill,22459.998,0.2309112459457918,0.2309112459457918,,,,"7/17/2021, 9:55:56 PM","This is a fake transaction created to fill your balance, because KuCoin API does not send all your transactions"
+KuCoin,Tether,USDT,KuCoin,USD,Fill,7.335738306069265e-7,1.0010471767976636,1.0010471767976636,,,,"7/17/2021, 9:55:56 PM","This is a fake transaction created to fill your balance, because KuCoin API does not send all your transactions"
+KuCoin,Stellar,XLM,KuCoin,,Deposit,500,,0.23435907000000003,,,,"7/17/2021, 9:55:56 PM",
