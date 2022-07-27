@@ -1,6 +1,6 @@
 # Calculate Crypto Bases for Tax Reporting
 
-These Jupyter notebooks are a pipeline for calculating the bases of your crypto transactions. You can then use these basesfor reporting your capital gains or losses to the IRS.
+These Jupyter notebooks are a pipeline for calculating the bases of your crypto transactions. You can then use these bases for reporting your capital gains or losses to the IRS.
 
 The data source has some manual steps since the purely automatic solutions provided by [Koinly](https://koinly.io/) or [CoinTracker](https://cointracker.io) always seem to have gaps.
 
